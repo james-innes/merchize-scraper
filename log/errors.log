@@ -1,0 +1,5 @@
+2024-07-10T15:42:12.679Z - Error fetching products: undefined is not an object (evaluating 'product.meta.artworks.front')
+2024-07-10T15:55:35.570Z - Error fetching products: undefined is not an object (evaluating 'product.meta.artworks[side]')
+2024-07-10T15:56:27.530Z - Error fetching products: undefined is not an object (evaluating 'product.meta.artworks[side]')
+2024-07-10T16:01:20.075Z - Artwork side front not found for product 668e4d10cfc37df717e202ba
+2024-07-10T16:01:22.068Z - Error fetching products: No such file or directory

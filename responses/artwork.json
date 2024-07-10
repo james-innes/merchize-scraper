@@ -1,0 +1,24 @@
+{
+	"success": true,
+	"data": {
+		"artworks": [
+			{
+				"thumbnail": "https://d2dytk4tvgwhb4.cloudfront.net/thumb/artwork/w_300,h_300/7i0z9vt/artworks/661c8820b9895b268dab1723/24/04/9owxeiki95.png",
+				"origin_url": "https://merchize-artworks.s3.us-west-1.amazonaws.com/7i0z9vt/artworks/661c8820b9895b268dab1723/24/04/9owxeiki95.png?AWSAccessKeyId=AKIAWYYRKM2QFT2QVQH3&Expires=1720608330&Signature=qOP0Rz6AHAt2sWplX7AS759kThs%3D",
+				"side": "front",
+				"_id": "661c8828b9895b1339ab1799",
+				"directory": "artworks",
+				"height": 4800,
+				"width": 4200,
+				"is_uploaded": true,
+				"is_deleted": false,
+				"name": "9owxeiki95.png",
+				"product": "661c8820b9895b268dab1723",
+				"created": "2024-04-15T01:51:36.899Z",
+				"is_queued_to_sync": true,
+				"ref_fulfillment": "661c88749c41793ac84af21f"
+			}
+		],
+		"total": 1
+	}
+}

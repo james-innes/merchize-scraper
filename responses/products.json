@@ -1,0 +1,4472 @@
+{
+	"success": true,
+	"data": {
+		"products": [
+			{
+				"_id": "661c8820b9895b268dab1723",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8820b9895b2437ab171d",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8820b9895b405aab171e",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8820b9895b3c0aab171f",
+						"values": [
+							{
+								"key": "size",
+								"value": "3XL",
+								"name": "3XL",
+								"slug": "3xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Loki Comfort Colors Shirt, Loki Season 2 shirt, Loki Laufeyson 965 Shirt, God of Mischief Shirt, Marvel Avengers Shirt, MCU Fans Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2067/1643/318/88/il/b546fe/5458184331/il_fullxfull.5458184331_ats1.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/AgnhIGtupgYaAVKsaBVRhutrRghbFfBjXEY4ZB48.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013225Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=840a4870a1caf4c8d919e1d5d1da77205c32e4d308a710b6756986fa0b2d8ea3"
+					}
+				},
+				"created": "2024-04-15T01:51:28.648Z",
+				"slug": "retro-loki-comfort-colors-shirt-loki-season-2-shirt-loki-laufeyson-965-shirt-god-of-mischief-shirt-marvel-avengers-shirt-mcu-fans-shirt-82m",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-loki-comfort-colors-shirt-loki-season-2-shirt-loki-laufeyson-965-shirt-god-of-mischief-shirt-marvel-avengers-shirt-mcu-fans-shirt-82m",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8820b9895b268dab1723/1717-unisex-t-shirt-comfort-colors/pepper/3xl/odju5/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8820b9895b14d6ab16ed",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881fb9895bbecbab16e8",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881fb9895b1ee3ab16e9",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881fb9895b2730ab16ea",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro 90s Spider Man Shirt, Vintage Spiderman Shirt, Spider Man Comfort Colors Shirt, Marvel Comics Shirt, Spiderverse Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2383/1894/0/132/il/e0d6e4/5871413646/il_fullxfull.5871413646_kyxr.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/l3JB9NVCpD8h4LWpZnKjbrELtRjjPyBS46xZKRpg.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013243Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=96078f2539e41e20b520d1f15914a6fd82cb0239f15449c47894278ee4cf4a3e"
+					}
+				},
+				"created": "2024-04-15T01:51:28.002Z",
+				"slug": "retro-90s-spider-man-shirt-vintage-spiderman-shirt-spider-man-comfort-colors-shirt-marvel-comics-shirt-spiderverse-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-90s-spider-man-shirt-vintage-spiderman-shirt-spider-man-comfort-colors-shirt-marvel-comics-shirt-spiderverse-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8820b9895b14d6ab16ed/1717-unisex-t-shirt-comfort-colors/black/l/vr1a4/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881e8feee548bdfd23a9",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881e8feee599fcfd23a3",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881e8feee5fb7cfd23a4",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881e8feee51a55fd23a5",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two sided Retro Lightning McQueen Comfort Colors Shirt, Disney Cars Shirt, Disney Family Vacation Shirt, Piston Cup shirt, Cars land shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1999/1589/34/59/il/23f3d5/5690314975/il_fullxfull.5690314975_o5oj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/skE7TUgSumdicxHoJE9xnODxpcilkWR3oxmxck4O.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=6a4192fbeb37df178bbcbb4c3751f0a150ce1795193382bb35123c48036b332e",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/rA3kB9NV6iih0Z2HiesbGLZe8omoaLY2Awke6kS7.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=b6721f3f5cfaa5bbf65431025156bda43c2ad5ff67bb3edfc888e5ee6198f490"
+					}
+				},
+				"created": "2024-04-15T01:51:26.923Z",
+				"slug": "two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-1f1",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-1f1",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881e8feee548bdfd23a9/1717-unisex-t-shirt-comfort-colors/ivory/m/vj0wp/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881e6240602ed2007bb1",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881e624060cffb007bab",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881e6240602ae1007bac",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881e6240600098007bad",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two sided Retro Lightning McQueen Comfort Colors Shirt, Disney Cars Shirt, Disney Family Vacation Shirt, Piston Cup shirt, Cars land shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1999/1589/34/59/il/23f3d5/5690314975/il_fullxfull.5690314975_o5oj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/aFoW9IplrCp0eotNdVRmBivQEnyU9ZW5yHq6oi7t.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013321Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=cbbe412eaff68d67c8225fd2e57289ebd841cee3dbd5ec1ffe0875038e1ddfbb",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/1WLw7BFuDOhN0KHOE8zEkZODyvhTDDJXnMgDoGvy.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013321Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=772ac037741bedba30c9aa628dc2673a002d8331822a63d581e21041d823e187"
+					}
+				},
+				"created": "2024-04-15T01:51:26.730Z",
+				"slug": "two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-idv",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-idv",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881e6240602ed2007bb1/1717-unisex-t-shirt-comfort-colors/pepper/xl/42x4f/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881eb9895bf796ab16b5",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881eb9895ba331ab16af",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881eb9895b6b06ab16b0",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881eb9895bc3c7ab16b1",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Disney Eras Tour Comfort Color Shirt, Me and Mickey Vibe Like That Shirt, Vintage Mouse Disco Ball Shirt, Magic Disco Ball Eras Mouse Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1812/1432/116/247/il/4008d6/5660231574/il_fullxfull.5660231574_i51m.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/Xtac6J1hnmDMeLe4mPmhWB7c62rPZNT2OhzBAPJe.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013342Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=59ac0edf1293a738d46d2433137657b49f96165bd2b1456a53b09ed4e8957324"
+					}
+				},
+				"created": "2024-04-15T01:51:26.719Z",
+				"slug": "disney-eras-tour-comfort-color-shirt-me-and-mickey-vibe-like-that-shirt-vintage-mouse-disco-ball-shirt-magic-disco-ball-eras-mouse-shirt-x1q",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/disney-eras-tour-comfort-color-shirt-me-and-mickey-vibe-like-that-shirt-vintage-mouse-disco-ball-shirt-magic-disco-ball-eras-mouse-shirt-x1q",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881eb9895bf796ab16b5/1717-unisex-t-shirt-comfort-colors/black/xl/xg5yx/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881e8feee515f0fd2373",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881e8feee5979ffd236d",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881e8feee5c508fd236e",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881e8feee5f8aefd236f",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Magic Castle Comfort Colors Shirt, Get In Loser we&#39;re going to shirt, Wizard Shirt, Bookworm Shirt, Universal Family Matching Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1621/1288/207/221/il/92b12d/5927827595/il_fullxfull.5927827595_bo39.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/03tja8fEsyajiOlptFvK97N3p6CW2deKw1WSfxLM.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013401Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=d32e3fb76925a20b13a089aa15a678c1faced8cfe4aff98a9ac0fefc4fea609e"
+					}
+				},
+				"created": "2024-04-15T01:51:26.169Z",
+				"slug": "vintage-magic-castle-comfort-colors-shirt-get-in-loser-weand39re-going-to-shirt-wizard-shirt-bookworm-shirt-universal-family-matching-shirt-xyt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-magic-castle-comfort-colors-shirt-get-in-loser-weand39re-going-to-shirt-wizard-shirt-bookworm-shirt-universal-family-matching-shirt-xyt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881e8feee515f0fd2373/1717-unisex-t-shirt-comfort-colors/pepper/xl/hx6kn/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881d8feee52b9bfd233d",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881d8feee5b2b9fd2338",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881d8feee536befd2339",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881d8feee56d7dfd233a",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Lightning Mcqueen Comfort Colors Shirt, Rusteze cars Shirt, McQueen 1977 shirt, Disney Pixar Cars Shirts, WDW Family Vacation Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2599/2066/277/33/il/18d677/5832202462/il_fullxfull.5832202462_qo5d.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/316nzBsHlVEscpGWlUBlrf0AwzbczBpQtIylpWPZ.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013429Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=0d3663ec992a05ea8eea9e992b2f68e4964b126e22248d9f6b0db4d63aa19836",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/UapT2nWZXgl4q2PQO9Kivots3qvbu7XYOvESO8mh.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013429Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=e9a67a9d1e17e6540e33e40a89462557ce0e19155cd955acacf386cfd3975859"
+					}
+				},
+				"created": "2024-04-15T01:51:25.106Z",
+				"slug": "retro-lightning-mcqueen-comfort-colors-shirt-rusteze-cars-shirt-mcqueen-1977-shirt-disney-pixar-cars-shirts-wdw-family-vacation-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-lightning-mcqueen-comfort-colors-shirt-rusteze-cars-shirt-mcqueen-1977-shirt-disney-pixar-cars-shirts-wdw-family-vacation-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881d8feee52b9bfd233d/1717-unisex-t-shirt-comfort-colors/pepper/l/zvzg1/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881c6240600da4007b79",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881c62406049c2007b73",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881c62406067a7007b74",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881c62406075ae007b75",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Tangled Rapunzel Comfort Colors Shirt, Snuggly Duckling Shirt, Rapunzel Go Live Your Dream, Disneyworld Shirt, Tangled Family Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1999/1589/94/188/il/d4324a/5661577293/il_fullxfull.5661577293_t51g.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/Zcn1ElWXXvi2PvS9uwpVAXrrNTOCGssBM992y4qF.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013452Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=2d39e1d47f4c717dbcc22d56a1899397ba1051a260accbd1cca4e2e98bd45209"
+					}
+				},
+				"created": "2024-04-15T01:51:24.904Z",
+				"slug": "vintage-tangled-rapunzel-comfort-colors-shirt-snuggly-duckling-shirt-rapunzel-go-live-your-dream-disneyworld-shirt-tangled-family-shirt-b8u",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-tangled-rapunzel-comfort-colors-shirt-snuggly-duckling-shirt-rapunzel-go-live-your-dream-disneyworld-shirt-tangled-family-shirt-b8u",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881c6240600da4007b79/1717-unisex-t-shirt-comfort-colors/ivory/xl/328ur/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881cd7dd98599393461b",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881cd7dd989ac9934615",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cd7dd988c61934616",
+						"values": [
+							{
+								"key": "color",
+								"value": "ORCHID",
+								"name": "ORCHID",
+								"slug": "orchid"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cd7dd981799934617",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Rapunzel Tangled Comfort Colors Shirt, Floral Rapunzel Shirt, WDW Disney Princess Shirt, Disneyworld Shirt, Tangled Lanterns Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1945/1554/166/216/il/b5626d/5802231568/il_fullxfull.5802231568_d5bi.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/kqMHjmlWE5WaE4WnbmJ0yJeOlPHiPF5pmPubxju8.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013513Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=4c28740033626cfaf23e019fc882c8f331a2b860d24ec88cdd858d179044a268"
+					}
+				},
+				"created": "2024-04-15T01:51:24.481Z",
+				"slug": "retro-rapunzel-tangled-comfort-colors-shirt-floral-rapunzel-shirt-wdw-disney-princess-shirt-disneyworld-shirt-tangled-lanterns-shirt-78j",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-rapunzel-tangled-comfort-colors-shirt-floral-rapunzel-shirt-wdw-disney-princess-shirt-disneyworld-shirt-tangled-lanterns-shirt-78j",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881cd7dd98599393461b/1717-unisex-t-shirt-comfort-colors/orchid/xl/iqr56/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881cb9895b4745ab167a",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881cb9895be2e7ab1675",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cb9895b164dab1676",
+						"values": [
+							{
+								"key": "color",
+								"value": "MOSS",
+								"name": "MOSS",
+								"slug": "moss"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cb9895b719bab1677",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Universal Studios Comfort Color Shirt, Universal Studios Family Shirt, Universal Studios Trip 2024 Shirt, Universal Theme Park shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2021/1606/328/25/il/dd1db8/5919488919/il_fullxfull.5919488919_599r.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/lDgmvlVIfRlGGiORLlqCGSuILuqmDj6a3N8RX3Ad.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013532Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=26d247e3bcb427c0a7693c93c2154d5b500fa2dc4f05f0e67ae16810ad6e8285"
+					}
+				},
+				"created": "2024-04-15T01:51:24.450Z",
+				"slug": "retro-universal-studios-comfort-color-shirt-universal-studios-family-shirt-universal-studios-trip-2024-shirt-universal-theme-park-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-universal-studios-comfort-color-shirt-universal-studios-family-shirt-universal-studios-trip-2024-shirt-universal-theme-park-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881cb9895b4745ab167a/1717-unisex-t-shirt-comfort-colors/moss/m/mejgd/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881cd7dd98e4139345e5",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881cd7dd9814ce9345e0",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cd7dd9882079345e1",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cd7dd9830799345e2",
+						"values": [
+							{
+								"key": "size",
+								"value": "2XL",
+								"name": "2XL",
+								"slug": "2xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Magic Castle Comfort Colors Shirt, Get In Loser we&#39;re going to shirt, Wizard Shirt, Bookworm Shirt, Universal Family Matching Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1621/1288/207/221/il/92b12d/5927827595/il_fullxfull.5927827595_bo39.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/03tja8fEsyajiOlptFvK97N3p6CW2deKw1WSfxLM.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013553Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=b20488e59152539143668f50fa8cdfaefaf847b2b68bb9cbe536cbb492c7aabd"
+					}
+				},
+				"created": "2024-04-15T01:51:24.051Z",
+				"slug": "vintage-magic-castle-comfort-colors-shirt-get-in-loser-weand39re-going-to-shirt-wizard-shirt-bookworm-shirt-universal-family-matching-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-magic-castle-comfort-colors-shirt-get-in-loser-weand39re-going-to-shirt-wizard-shirt-bookworm-shirt-universal-family-matching-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881cd7dd98e4139345e5/1717-unisex-t-shirt-comfort-colors/pepper/2xl/nh2lr/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881cb9895b55e9ab1645",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c881cb9895b05f0ab163f",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cb9895ba01bab1640",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881cb9895b01a8ab1641",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Comfort colors shirt, Retro Epcot World Tour 1982 Shirt, Epcot Center Shirts, Drinking Around The World Tour, World Showcase Shirt DL-160201",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1967/1570/33/75/il/51eee7/4652577948/il_fullxfull.4652577948_dhjg.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/1VZPRqu3Gfy9AzgqOA6TpbmSK8PPstAyV2CQAbaN.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014035Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=7059c3f1727f34a447de73ccf865e2837453533d5933679dee2c5eb8a06c5bb5",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/H9mGvWP79dszIHJfnZum1RgBvYzRpmoQbO091afz.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014035Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=0f65732d2a8392c5befe980a42f0a936b3b87d00d87a07660327626d53b49380"
+					}
+				},
+				"created": "2024-04-15T01:51:24.012Z",
+				"slug": "comfort-colors-shirt-retro-epcot-world-tour-1982-shirt-epcot-center-shirts-drinking-around-the-world-tour-world-showcase-shirt-dl-160201-jv0",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/comfort-colors-shirt-retro-epcot-world-tour-1982-shirt-epcot-center-shirts-drinking-around-the-world-tour-world-showcase-shirt-dl-160201-jv0",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881cb9895b55e9ab1645/1717-unisex-t-shirt-comfort-colors/black/l/mes36/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8819624060c62a007b43",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8819624060d4b1007b3d",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8819624060cf42007b3e",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88196240608bde007b3f",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Avengers Logo Comfort Color Shirt, Marvel Avengers Shirt, Marvel Superhero Shirt, Marvel Family Shirt, Avengers Assemble Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1778/1413/159/250/il/e34af6/5773707590/il_fullxfull.5773707590_gauy.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/a2dOhOS5q2tHTZwjGOaJiACoFLRmybOenWIJyD4C.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013609Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=ba97d1a4dc8588a845047c6b5bbf2dbf91869df785c2fc464d35fbb9c8062d7b"
+					}
+				},
+				"created": "2024-04-15T01:51:21.986Z",
+				"slug": "vintage-avengers-logo-comfort-color-shirt-marvel-avengers-shirt-marvel-superhero-shirt-marvel-family-shirt-avengers-assemble-shirt-465",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-avengers-logo-comfort-color-shirt-marvel-avengers-shirt-marvel-superhero-shirt-marvel-family-shirt-avengers-assemble-shirt-465",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8819624060c62a007b43/1717-unisex-t-shirt-comfort-colors/pepper/l/owy6t/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8819b9895bd405ab162d",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8819b9895b7ab2ab1628",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8819b9895b90d3ab1629",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8819b9895bfec7ab162a",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two Sided Remy Ratatouille Comfort Colors Shirt, Vintage Ratatouille Gusteau&#39;s Shirt, Little chef shirt, Remy Shirts, Anyone can cook shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2745/2182/0/293/il/24b2f7/5626276213/il_fullxfull.5626276213_ntsr.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/AhLeXxHxclJhrHdfqYAkUoAvivrEd8kwtcLXbDUn.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013648Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=3e76d6daa0794afd061c3691434f5cfa328893f24b7dda8d7761058b55e94896",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/yVumt3tS8dtFcHNlCooszxdbatg2MJVltDefv8Bp.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013648Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=949f50a4da917e37b9aaee4166aafc400f06c3f18207b53e758b1e1b9c44d2b2"
+					}
+				},
+				"created": "2024-04-15T01:51:21.543Z",
+				"slug": "two-sided-remy-ratatouille-comfort-colors-shirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-shirt-remy-shirts-anyone-can-cook-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-remy-ratatouille-comfort-colors-shirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-shirt-remy-shirts-anyone-can-cook-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8819b9895bd405ab162d/1717-unisex-t-shirt-comfort-colors/pepper/l/89sge/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88198feee568b1fd2306",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88198feee50b63fd2300",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88198feee54452fd2301",
+						"values": [
+							{
+								"key": "color",
+								"value": "MOSS",
+								"name": "MOSS",
+								"slug": "moss"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88198feee55dc4fd2302",
+						"values": [
+							{
+								"key": "size",
+								"value": "3XL",
+								"name": "3XL",
+								"slug": "3xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Floral Star Wars Comfort Colors Shirt, Star War Floral Shirt, Darth Vader Shirt, Stormtrooper tee, Boba Fett Shirt, Disneyland Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1971/1550/151/176/il/132853/5818622310/il_fullxfull.5818622310_surj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/HbDt5ZvXuE2NXzyHCT6xeLvzM0JboSjdDZ88FSoP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013707Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=5b337c8674f59e945febdd2ac89d6bedf53ff74079585f1acc5412fb4cf5188c"
+					}
+				},
+				"created": "2024-04-15T01:51:21.437Z",
+				"slug": "retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt-bru",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt-bru",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88198feee568b1fd2306/1717-unisex-t-shirt-comfort-colors/moss/3xl/2a99w/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88196240600f31007b0c",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88196240600015007b06",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8819624060b367007b07",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88196240607cf6007b08",
+						"values": [
+							{
+								"key": "size",
+								"value": "S",
+								"name": "S",
+								"slug": "s"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Tangled Rapunzel Comfort Colors Shirt, Disney Rapunzel Floral Shirt, Rapunzel and Flynn Shirt, Princess Rapunzel Lantern Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1946/1562/175/175/il/b1d6dd/5661647145/il_fullxfull.5661647145_6d50.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/zIDQ3IuzZfPxKXAgujBiGbvSyqzXhIvnlfRYnIhe.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013731Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=5531b573f40acae9071ece101e0b393499eea31a89b0966461d625a6f90cd134"
+					}
+				},
+				"created": "2024-04-15T01:51:21.289Z",
+				"slug": "vintage-tangled-rapunzel-comfort-colors-shirt-disney-rapunzel-floral-shirt-rapunzel-and-flynn-shirt-princess-rapunzel-lantern-shirt-fr9",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-tangled-rapunzel-comfort-colors-shirt-disney-rapunzel-floral-shirt-rapunzel-and-flynn-shirt-princess-rapunzel-lantern-shirt-fr9",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88196240600f31007b0c/1717-unisex-t-shirt-comfort-colors/ivory/s/i91dd/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88178feee5abdffd22d0",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88178feee587e7fd22ca",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88178feee5665bfd22cb",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88178feee5510ffd22cc",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Tangled Rapunzel Comfort Colors Shirt, Disney Rapunzel Floral Shirt, Rapunzel and Flynn Shirt, Princess Rapunzel Lantern Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1946/1562/175/175/il/b1d6dd/5661647145/il_fullxfull.5661647145_6d50.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/zIDQ3IuzZfPxKXAgujBiGbvSyqzXhIvnlfRYnIhe.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013800Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=f47b53bd9400ee38c450d7a430246b1f8d7b5fcb1d9a32cc0a4339fc78297274"
+					}
+				},
+				"created": "2024-04-15T01:51:19.154Z",
+				"slug": "vintage-tangled-rapunzel-comfort-colors-shirt-disney-rapunzel-floral-shirt-rapunzel-and-flynn-shirt-princess-rapunzel-lantern-shirt-tnw",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-tangled-rapunzel-comfort-colors-shirt-disney-rapunzel-floral-shirt-rapunzel-and-flynn-shirt-princess-rapunzel-lantern-shirt-tnw",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88178feee5abdffd22d0/1717-unisex-t-shirt-comfort-colors/ivory/m/5jiqj/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8815624060d08c007ad4",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8815624060211d007acf",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8815624060d97a007ad0",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88156240602a53007ad1",
+						"values": [
+							{
+								"key": "size",
+								"value": "2XL",
+								"name": "2XL",
+								"slug": "2xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Loki Comfort Colors Shirt, Loki Season 2 shirt, Loki Laufeyson 965 Shirt, God of Mischief Shirt, Marvel Avengers Shirt, MCU Fans Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2067/1643/318/88/il/b546fe/5458184331/il_fullxfull.5458184331_ats1.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/AgnhIGtupgYaAVKsaBVRhutrRghbFfBjXEY4ZB48.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013818Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=5743efdf19e2822eada1578ecc0acccb3275fc4d15294dbe9eec674661d64e71"
+					}
+				},
+				"created": "2024-04-15T01:51:17.526Z",
+				"slug": "retro-loki-comfort-colors-shirt-loki-season-2-shirt-loki-laufeyson-965-shirt-god-of-mischief-shirt-marvel-avengers-shirt-mcu-fans-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-loki-comfort-colors-shirt-loki-season-2-shirt-loki-laufeyson-965-shirt-god-of-mischief-shirt-marvel-avengers-shirt-mcu-fans-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8815624060d08c007ad4/1717-unisex-t-shirt-comfort-colors/pepper/2xl/hg99d/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88158feee5e2b2fd2292",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88158feee5df01fd228a",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88158feee56f54fd228b",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88158feee57aa0fd228c",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Star Wars Comfort Colors Shirt, Star Wars A New Hope Faded tee, Disneyworld Family Shirts, Galaxys Edge Shirt, Darth Vader Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1927/1532/148/214/il/4e8ef5/5827797437/il_fullxfull.5827797437_a86p.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/6Xnw8rwRuYgU9uopHIRUHY5yV6jM99hwHCj8FkM0.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013835Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=47773a50870e3249503d47b61233c9d481a33abf9e216fda0cc82bab2e3179b2"
+					}
+				},
+				"created": "2024-04-15T01:51:17.494Z",
+				"slug": "vintage-star-wars-comfort-colors-shirt-star-wars-a-new-hope-faded-tee-disneyworld-family-shirts-galaxys-edge-shirt-darth-vader-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-star-wars-comfort-colors-shirt-star-wars-a-new-hope-faded-tee-disneyworld-family-shirts-galaxys-edge-shirt-darth-vader-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88158feee5e2b2fd2292/1717-unisex-t-shirt-comfort-colors/pepper/l/5ozw9/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88158feee59d1ffd2290",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88158feee51c9afd2286",
+						"values": [
+							{
+								"key": "product",
+								"value": "18000 Unisex Classic Sweatshirt",
+								"name": "18000 Unisex Classic Sweatshirt",
+								"slug": "18000-unisex-classic-sweatshirt"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88158feee5ff38fd2287",
+						"values": [
+							{
+								"key": "color",
+								"value": "NAVY",
+								"name": "NAVY",
+								"slug": "navy"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88158feee586f0fd2288",
+						"values": [
+							{
+								"key": "size",
+								"value": "S",
+								"name": "S",
+								"slug": "s"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Avengers All Team Sweatshirt, Marvel Superhero hoodie, Romanoff 1984, Parker 2001 shirt, Barnes 1917, Rogers 1918, Marvel Family Sweatshirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1993/1578/67/42/il/7d4c21/5544170514/il_fullxfull.5544170514_72b0.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/ps9pEgLB18FUWuiyU28cVZzJ825702w4PLpqSVJ2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013905Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=c04a59e82f1f12757e34f6bc119a51c0e4932190933355bee4f2ba40fdecb3cf"
+					}
+				},
+				"created": "2024-04-15T01:51:17.493Z",
+				"slug": "avengers-all-team-sweatshirt-marvel-superhero-hoodie-romanoff-1984-parker-2001-shirt-barnes-1917-rogers-1918-marvel-family-sweatshirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/avengers-all-team-sweatshirt-marvel-superhero-hoodie-romanoff-1984-parker-2001-shirt-barnes-1917-rogers-1918-marvel-family-sweatshirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88158feee59d1ffd2290/18000-unisex-classic-sweatshirt/navy/s/a9pmy/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8815b9895b0d69ab15f6",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8815b9895b57c3ab15f0",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8815b9895b6a01ab15f1",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8815b9895b4962ab15f2",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Godzilla Vs Kong Comfort Colors Shirt, Godzilla x Kong The New Empire 2024 Shirt, Godzilla Kong Shirt, Godzilla Movie Fans Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/883/702/120/120/il/5167c5/5896731548/il_fullxfull.5896731548_fxkd.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/tieLK9NX3nDDPnZkDFNgsMfl4UDay8KWIMIdlJWP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013923Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=b3612951628a08cddcdce95e097bba0f15a48655cabd3a1de09790b36a99dbdd"
+					}
+				},
+				"created": "2024-04-15T01:51:17.258Z",
+				"slug": "vintage-godzilla-vs-kong-comfort-colors-shirt-godzilla-x-kong-the-new-empire-2024-shirt-godzilla-kong-shirt-godzilla-movie-fans-shirts-fig",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-godzilla-vs-kong-comfort-colors-shirt-godzilla-x-kong-the-new-empire-2024-shirt-godzilla-kong-shirt-godzilla-movie-fans-shirts-fig",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8815b9895b0d69ab15f6/1717-unisex-t-shirt-comfort-colors/black/xl/x23b4/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8814b9895beb99ab15c0",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8814b9895b6963ab15bb",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8814b9895b837fab15bc",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8814b9895b571cab15bd",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage 90s Black Suit Spidey Comfort Colors Shirt, Retro Spider- Man Shirt, Superhero Shirt, Marvel Comics Shirt, Marvel Spiderman tshirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2430/1931/0/155/il/52f7a3/5871373898/il_fullxfull.5871373898_r0c3.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/tXB1WwHfla0ePQ1HTMrF5NF93IKqwCtKrRxR8NYS.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T013945Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=5f018fec92269574d8d96d523cf99e52771618f0a1967629f8c7ed43e7c79325"
+					}
+				},
+				"created": "2024-04-15T01:51:16.912Z",
+				"slug": "vintage-90s-black-suit-spidey-comfort-colors-shirt-retro-spider-man-shirt-superhero-shirt-marvel-comics-shirt-marvel-spiderman-tshirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-90s-black-suit-spidey-comfort-colors-shirt-retro-spider-man-shirt-superhero-shirt-marvel-comics-shirt-marvel-spiderman-tshirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8814b9895beb99ab15c0/1717-unisex-t-shirt-comfort-colors/ivory/l/gqxri/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8814624060698a007a9f",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88146240608449007a9a",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88146240608db2007a9b",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88146240600f04007a9c",
+						"values": [
+							{
+								"key": "size",
+								"value": "3XL",
+								"name": "3XL",
+								"slug": "3xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Avengers Logo Comfort Color Shirt, Marvel Avengers Shirt, Marvel Superhero Shirt, Marvel Family Shirt, Avengers Assemble Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1778/1413/159/250/il/e34af6/5773707590/il_fullxfull.5773707590_gauy.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/a2dOhOS5q2tHTZwjGOaJiACoFLRmybOenWIJyD4C.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014005Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=3bf1a763ac62cbc81efecb92382d8ad1975b5ecb9f35fc2b03c4249988b6958c"
+					}
+				},
+				"created": "2024-04-15T01:51:16.751Z",
+				"slug": "vintage-avengers-logo-comfort-color-shirt-marvel-avengers-shirt-marvel-superhero-shirt-marvel-family-shirt-avengers-assemble-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-avengers-logo-comfort-color-shirt-marvel-avengers-shirt-marvel-superhero-shirt-marvel-family-shirt-avengers-assemble-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8814624060698a007a9f/1717-unisex-t-shirt-comfort-colors/pepper/3xl/ezckd/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8814b9895b80faab158b",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8814b9895bb043ab1586",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8814b9895b4eb7ab1587",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8814b9895b6e45ab1588",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Comfort colors shirt, Retro Epcot World Tour 1982 Shirt, Epcot Center Shirts, Drinking Around The World Tour, World Showcase Shirt DL-160201",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1967/1570/33/75/il/51eee7/4652577948/il_fullxfull.4652577948_dhjg.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/1VZPRqu3Gfy9AzgqOA6TpbmSK8PPstAyV2CQAbaN.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014035Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=7059c3f1727f34a447de73ccf865e2837453533d5933679dee2c5eb8a06c5bb5",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/H9mGvWP79dszIHJfnZum1RgBvYzRpmoQbO091afz.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014035Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=0f65732d2a8392c5befe980a42f0a936b3b87d00d87a07660327626d53b49380"
+					}
+				},
+				"created": "2024-04-15T01:51:16.148Z",
+				"slug": "comfort-colors-shirt-retro-epcot-world-tour-1982-shirt-epcot-center-shirts-drinking-around-the-world-tour-world-showcase-shirt-dl-160201",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/comfort-colors-shirt-retro-epcot-world-tour-1982-shirt-epcot-center-shirts-drinking-around-the-world-tour-world-showcase-shirt-dl-160201",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8814b9895b80faab158b/1717-unisex-t-shirt-comfort-colors/black/xl/5mo7s/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8813d7dd98d7749345ab",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8813d7dd987f929345a6",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8813d7dd983b479345a7",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8813d7dd98b5469345a8",
+						"values": [
+							{
+								"key": "size",
+								"value": "S",
+								"name": "S",
+								"slug": "s"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Sleeping Beauty Comfort Colors Shirt, WDW Aurora Shirt, Princess Aurora shirt, Disneyworld Vacation Shirt, Disney Princess Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1818/1445/163/209/il/2efce5/5680468732/il_fullxfull.5680468732_beyu.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/2hkdrlmvQlZto875peTgASynmeHLac97ISbIVIbn.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=f4fb824469c5b7341cb98864ec23bf119dd15963b7802276fef8ba67df5650fd"
+					}
+				},
+				"created": "2024-04-15T01:51:15.932Z",
+				"slug": "vintage-sleeping-beauty-comfort-colors-shirt-wdw-aurora-shirt-princess-aurora-shirt-disneyworld-vacation-shirt-disney-princess-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-sleeping-beauty-comfort-colors-shirt-wdw-aurora-shirt-princess-aurora-shirt-disneyworld-vacation-shirt-disney-princess-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8813d7dd98d7749345ab/1717-unisex-t-shirt-comfort-colors/ivory/s/msya0/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88128feee56e6cfd222a",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88128feee5d4c4fd2224",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88128feee500bcfd2225",
+						"values": [
+							{
+								"key": "color",
+								"value": "HEATHER PEACH",
+								"name": "HEATHER PEACH",
+								"slug": "heather-peach"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88128feee5de38fd2226",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Epcot Flower and Garden Shirt, Epcot Festival 2024 Shirt, Floral Disney Shirt, Mickey Figment Orange Bird, Disney Matching Family Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1233/980/79/131/il/f8828f/5922447203/il_fullxfull.5922447203_1yzj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/cJbPWuzBa2UwUE5IrOBS8dnZTCrWTpcGeIQkAuIK.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014348Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=c3edd5b701160ae839824db9c50ae527a744ad7946c4e11b249a5f4bf9768daa"
+					}
+				},
+				"created": "2024-04-15T01:51:14.364Z",
+				"slug": "epcot-flower-and-garden-shirt-epcot-festival-2024-shirt-floral-disney-shirt-mickey-figment-orange-bird-disney-matching-family-shirts-1kc",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/epcot-flower-and-garden-shirt-epcot-festival-2024-shirt-floral-disney-shirt-mickey-figment-orange-bird-disney-matching-family-shirts-1kc",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88128feee56e6cfd222a/3001-unisex-jersey-short-sleeve-tee/heather-peach/xl/lwhxx/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88118feee5615cfd2215",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88118feee54a6efd2210",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88118feee54d74fd2211",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88118feee5f3f2fd2212",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Guardians of the Galaxy Cosmic Rewind Comfort Color Shirt, Rocket Raccoon Groot, Marvel Superhero Shirt, Guardians of the Galaxy Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1945/1546/191/290/il/167342/5773733466/il_fullxfull.5773733466_9fkb.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/TmEYJIQCJ1Oad9mthalDYqqqPRfak7DpoCmZUt6n.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014118Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=5d5d17d8d9f1164f9b49f6cfbf69f0177b0e337e082bc4861f290499dc4acadc"
+					}
+				},
+				"created": "2024-04-15T01:51:13.829Z",
+				"slug": "guardians-of-the-galaxy-cosmic-rewind-comfort-color-shirt-rocket-raccoon-groot-marvel-superhero-shirt-guardians-of-the-galaxy-shirts",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/guardians-of-the-galaxy-cosmic-rewind-comfort-color-shirt-rocket-raccoon-groot-marvel-superhero-shirt-guardians-of-the-galaxy-shirts",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88118feee5615cfd2215/1717-unisex-t-shirt-comfort-colors/pepper/l/ynozs/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c881062406001d2007a68",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88106240605353007a63",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c881062406003c4007a64",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88106240600822007a65",
+						"values": [
+							{
+								"key": "size",
+								"value": "3XL",
+								"name": "3XL",
+								"slug": "3xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Captain America Comfort Colors Shirt, Steve Rogers Shirt, Marvel Avengers Shirt, The First Avenger, Captain America, MCU Fans Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2148/1708/266/9/il/c31b5d/5689860593/il_fullxfull.5689860593_dol4.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/T1wWrAqEvKXya1c43abu0f48RYHYehFiGvzeQMWF.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014137Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345599&X-Amz-Signature=b4ff4d392ace1d6d0c03a96af67cd9f44d561c7523206403deda2c6a250dc965"
+					}
+				},
+				"created": "2024-04-15T01:51:12.527Z",
+				"slug": "retro-captain-america-comfort-colors-shirt-steve-rogers-shirt-marvel-avengers-shirt-the-first-avenger-captain-america-mcu-fans-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-captain-america-comfort-colors-shirt-steve-rogers-shirt-marvel-avengers-shirt-the-first-avenger-captain-america-mcu-fans-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c881062406001d2007a68/1717-unisex-t-shirt-comfort-colors/pepper/3xl/1zmbf/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880fb9895b940fab1554",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880fb9895b0a52ab154d",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880fb9895bd642ab154e",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880fb9895b5c11ab154f",
+						"values": [
+							{
+								"key": "size",
+								"value": "2XL",
+								"name": "2XL",
+								"slug": "2xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Disney Cats Comfort Colors Shirt, Cat Lovers Shirt, Disneyland Shirt, Walt Disney World Shirt, Cute Disney Cat All Characters Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/999/794/55/47/il/07dad0/5880267883/il_fullxfull.5880267883_l714.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/yUauEUU1nPkt8IlvAzmlW9xUYiOKoeLJDJAJrg0A.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014156Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=0854781496fc823475eab58c99608b3fd9370d78846271daf36c81ca0bace386"
+					}
+				},
+				"created": "2024-04-15T01:51:11.173Z",
+				"slug": "retro-disney-cats-comfort-colors-shirt-cat-lovers-shirt-disneyland-shirt-walt-disney-world-shirt-cute-disney-cat-all-characters-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-disney-cats-comfort-colors-shirt-cat-lovers-shirt-disneyland-shirt-walt-disney-world-shirt-cute-disney-cat-all-characters-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880fb9895b940fab1554/1717-unisex-t-shirt-comfort-colors/black/2xl/26ydt/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880fb9895b5350ab1545",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880fb9895b554dab153e",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880fb9895b55ffab153f",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLOSSOM",
+								"name": "BLOSSOM",
+								"slug": "blossom"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880fb9895bbdafab1540",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Guardians of the Galaxy Comfort Color Shirt, Avengers Friends Shirt, Marvel Superhero Shirt, Guardians of the Galaxy Mixtape Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1801/1439/138/161/il/541179/5821712869/il_fullxfull.5821712869_cuit.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/7EttDOychJcoRyVRdUqcgThw9UWa1cNjT8ItfyNR.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=20607a664ffe6d7379e81f18c2289992e200a691a0da94e1778289643e5e00e1"
+					}
+				},
+				"created": "2024-04-15T01:51:11.128Z",
+				"slug": "vintage-guardians-of-the-galaxy-comfort-color-shirt-avengers-friends-shirt-marvel-superhero-shirt-guardians-of-the-galaxy-mixtape-shirts",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-guardians-of-the-galaxy-comfort-color-shirt-avengers-friends-shirt-marvel-superhero-shirt-guardians-of-the-galaxy-mixtape-shirts",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880fb9895b5350ab1545/1717-unisex-t-shirt-comfort-colors/blossom/xl/t31a4/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880eb9895b0581ab14e9",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880eb9895bc27cab14e3",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880eb9895bc9aaab14e4",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880eb9895ba584ab14e5",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Floral Star Wars Comfort Colors Shirt, Star War Floral Shirt, Darth Vader Shirt, Stormtrooper tee, Boba Fett Shirt, Disneyland Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1971/1550/151/176/il/132853/5818622310/il_fullxfull.5818622310_surj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/HbDt5ZvXuE2NXzyHCT6xeLvzM0JboSjdDZ88FSoP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014238Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=2dd23f8a02288e758fbb4db5b816b086cb84094d6aa10b7fc7cc79c6b88e587b"
+					}
+				},
+				"created": "2024-04-15T01:51:10.121Z",
+				"slug": "retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt-no2",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt-no2",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880eb9895b0581ab14e9/1717-unisex-t-shirt-comfort-colors/ivory/xl/fk9xs/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880d624060e3cb007a2f",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880d624060689a007a2a",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880d6240604cbf007a2b",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880d624060724a007a2c",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Rapunzel Tangled Comfort Colors Shirt, Floral Rapunzel Shirt, WDW Disney Princess Shirt, Disneyworld Shirt, Tangled Lanterns Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1945/1554/166/216/il/b5626d/5802231568/il_fullxfull.5802231568_d5bi.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/kqMHjmlWE5WaE4WnbmJ0yJeOlPHiPF5pmPubxju8.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014256Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=ce58c156d830056f26d04e5d029315534cf1e028be722f8fdb3782582dd64965"
+					}
+				},
+				"created": "2024-04-15T01:51:09.528Z",
+				"slug": "retro-rapunzel-tangled-comfort-colors-shirt-floral-rapunzel-shirt-wdw-disney-princess-shirt-disneyworld-shirt-tangled-lanterns-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-rapunzel-tangled-comfort-colors-shirt-floral-rapunzel-shirt-wdw-disney-princess-shirt-disneyworld-shirt-tangled-lanterns-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880d624060e3cb007a2f/1717-unisex-t-shirt-comfort-colors/ivory/xl/f4ew8/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880d8feee513a6fd21de",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880d8feee5688dfd21d9",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880d8feee52a26fd21da",
+						"values": [
+							{
+								"key": "color",
+								"value": "HEATHER PEACH",
+								"name": "HEATHER PEACH",
+								"slug": "heather-peach"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880d8feee5c675fd21db",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Epcot Flower and Garden Shirt, Epcot Festival 2024 Shirt, Floral Disney Shirt, Mickey Figment Orange Bird, Disney Matching Family Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1233/980/79/131/il/f8828f/5922447203/il_fullxfull.5922447203_1yzj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/cJbPWuzBa2UwUE5IrOBS8dnZTCrWTpcGeIQkAuIK.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014348Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=c3edd5b701160ae839824db9c50ae527a744ad7946c4e11b249a5f4bf9768daa"
+					}
+				},
+				"created": "2024-04-15T01:51:09.475Z",
+				"slug": "epcot-flower-and-garden-shirt-epcot-festival-2024-shirt-floral-disney-shirt-mickey-figment-orange-bird-disney-matching-family-shirts",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/epcot-flower-and-garden-shirt-epcot-festival-2024-shirt-floral-disney-shirt-mickey-figment-orange-bird-disney-matching-family-shirts",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880d8feee513a6fd21de/3001-unisex-jersey-short-sleeve-tee/heather-peach/l/bvsk7/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880c8feee54362fd21a9",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880c8feee55bf6fd21a4",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880c8feee5acd9fd21a5",
+						"values": [
+							{
+								"key": "color",
+								"value": "ORCHID",
+								"name": "ORCHID",
+								"slug": "orchid"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880c8feee56c0dfd21a6",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Tangled Rapunzel Comfort Colors Shirt, Disney Rapunzel Floral Shirt, Rapunzel and Flynn Shirt, Princess Rapunzel Lantern Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1946/1562/175/175/il/b1d6dd/5661647145/il_fullxfull.5661647145_6d50.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/zIDQ3IuzZfPxKXAgujBiGbvSyqzXhIvnlfRYnIhe.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014409Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=51100f260b9d15445e53ca17e083990c4196d08ecbc1d61be9442cee95a6abd4"
+					}
+				},
+				"created": "2024-04-15T01:51:08.996Z",
+				"slug": "vintage-tangled-rapunzel-comfort-colors-shirt-disney-rapunzel-floral-shirt-rapunzel-and-flynn-shirt-princess-rapunzel-lantern-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-tangled-rapunzel-comfort-colors-shirt-disney-rapunzel-floral-shirt-rapunzel-and-flynn-shirt-princess-rapunzel-lantern-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880c8feee54362fd21a9/1717-unisex-t-shirt-comfort-colors/orchid/xl/ultfx/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880c8feee5fb75fd2174",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880c8feee5abb5fd216f",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880c8feee5316afd2170",
+						"values": [
+							{
+								"key": "color",
+								"value": "CHAMBRAY",
+								"name": "CHAMBRAY",
+								"slug": "chambray"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880c8feee50ff5fd2171",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Disney Monster Inc Comfort Colors Shirt, Cute Sulley and Boo Shirt, Monsters University Shirts, Disney Best Friends Shirt, XT-020304",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1709/1358/204/160/il/c2e12a/5384350853/il_fullxfull.5384350853_ioy9.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/Lz2hMqRWMW4MUup8V7RALe6xzWsOSzbHOsyOSDcP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014436Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=008b3f0a704880a944945f676f25aa0fa160007b0c47ce0d0b41fec102d32999"
+					}
+				},
+				"created": "2024-04-15T01:51:08.467Z",
+				"slug": "vintage-disney-monster-inc-comfort-colors-shirt-cute-sulley-and-boo-shirt-monsters-university-shirts-disney-best-friends-shirt-xt-020304",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-disney-monster-inc-comfort-colors-shirt-cute-sulley-and-boo-shirt-monsters-university-shirts-disney-best-friends-shirt-xt-020304",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880c8feee5fb75fd2174/1717-unisex-t-shirt-comfort-colors/chambray/l/59mkf/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880cd7dd980798934574",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880cd7dd98870493456e",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880cd7dd98b7b793456f",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880cd7dd981f3b934570",
+						"values": [
+							{
+								"key": "size",
+								"value": "2XL",
+								"name": "2XL",
+								"slug": "2xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Floral Star Wars Comfort Colors Shirt, Star War Floral Shirt, Darth Vader Shirt, Stormtrooper tee, Boba Fett Shirt, Disneyland Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1971/1550/151/176/il/132853/5818622310/il_fullxfull.5818622310_surj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/HbDt5ZvXuE2NXzyHCT6xeLvzM0JboSjdDZ88FSoP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014454Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=e5c51a4f613b909f1446738616beb975a4fb08b19232e33ae287714ea05a4b99"
+					}
+				},
+				"created": "2024-04-15T01:51:08.233Z",
+				"slug": "retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt-tn2",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt-tn2",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880cd7dd980798934574/1717-unisex-t-shirt-comfort-colors/black/2xl/9ang6/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880b6240602f890079f8",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880b6240607d250079f3",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880b6240607aba0079f4",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880b624060d7130079f5",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Disney Animal Kingdom Comfort Colors Shirt, Disney Safari Trip shirt, Animal Kingdom Tree of Life shirt, Animal Kingdom Family Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2148/1708/275/73/il/807daa/5409756644/il_fullxfull.5409756644_7s5o.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/CxoGcArMbogkNeECpWeVTj24WlCd8X6I61Xv1DSc.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T015034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=bf0fea5dd06943e593ee2eef6c9a9b4ec8ef97f3f1efd1a5f8faf5fbcb891a52"
+					}
+				},
+				"created": "2024-04-15T01:51:07.339Z",
+				"slug": "retro-disney-animal-kingdom-comfort-colors-shirt-disney-safari-trip-shirt-animal-kingdom-tree-of-life-shirt-animal-kingdom-family-shirts",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-disney-animal-kingdom-comfort-colors-shirt-disney-safari-trip-shirt-animal-kingdom-tree-of-life-shirt-animal-kingdom-family-shirts",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880b6240602f890079f8/1717-unisex-t-shirt-comfort-colors/pepper/m/u8awg/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8807b9895bfa18ab14b1",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8807b9895b6d42ab14a9",
+						"values": [
+							{
+								"key": "product",
+								"value": "18000 Unisex Classic Sweatshirt",
+								"name": "18000 Unisex Classic Sweatshirt",
+								"slug": "18000-unisex-classic-sweatshirt"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8807b9895b6e73ab14aa",
+						"values": [
+							{
+								"key": "color",
+								"value": "FOREST GREEN",
+								"name": "FOREST GREEN",
+								"slug": "forest-green"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8807b9895b94c0ab14ab",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two Sided Remy Ratatouille Sweatshirt, Vintage Ratatouille Gusteau&#39;s Shirt, Little chef Sweatshirt, Remy Hoodie, Anyone can cook sweater",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2038/1620/17/226/il/9cdeb5/5919505263/il_fullxfull.5919505263_2xfp.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/ReEiWxNuUjCyptiY5ieVSHPrM3x8N4vJm63UawEt.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=f3d1431289045ea3c92d71dd299edda9088641f2e54624e5e2149939b97b9471",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/jpaO7FLcSZbfOmHUtll64ZCoIiwXziH2Jbh6lOiA.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=410bd988143cc995549601c63b2a2f39f1442d5d54807946b8730d9b2072fa12"
+					}
+				},
+				"created": "2024-04-15T01:51:03.262Z",
+				"slug": "two-sided-remy-ratatouille-sweatshirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-sweatshirt-remy-hoodie-anyone-can-cook-sweater-w6f",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-remy-ratatouille-sweatshirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-sweatshirt-remy-hoodie-anyone-can-cook-sweater-w6f",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8807b9895bfa18ab14b1/18000-unisex-classic-sweatshirt/forest-green/l/th21q/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8807d7dd9822a5934537",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8807d7dd98ebba93452b",
+						"values": [
+							{
+								"key": "product",
+								"value": "18000 Unisex Classic Sweatshirt",
+								"name": "18000 Unisex Classic Sweatshirt",
+								"slug": "18000-unisex-classic-sweatshirt"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8807d7dd9865b693452c",
+						"values": [
+							{
+								"key": "color",
+								"value": "SAND",
+								"name": "SAND",
+								"slug": "sand"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8807d7dd98d6e193452d",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two Sided Remy Ratatouille Sweatshirt, Vintage Ratatouille Gusteau&#39;s Shirt, Little chef Sweatshirt, Remy Hoodie, Anyone can cook sweater",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2038/1620/17/226/il/9cdeb5/5919505263/il_fullxfull.5919505263_2xfp.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/Driiv6eDD2TGKpdCHoayD7focbHMQGG7ztwmcc9g.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014534Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=96eb4cc70066a777ec9a3b76395da31bbfda4b4378540a014d28cdbfe2e51dba",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/sPauCBTAy22n99QP2o0iLqJBnWVG12SlJpKjkpUD.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014534Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=022d2d932bf58d969b339cf4d40298212b8ea26d702a2c9cc2c9b051c4c103fc"
+					}
+				},
+				"created": "2024-04-15T01:51:03.051Z",
+				"slug": "two-sided-remy-ratatouille-sweatshirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-sweatshirt-remy-hoodie-anyone-can-cook-sweater-i00",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-remy-ratatouille-sweatshirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-sweatshirt-remy-hoodie-anyone-can-cook-sweater-i00",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8807d7dd9822a5934537/18000-unisex-classic-sweatshirt/sand/m/8d1yb/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8807d7dd98c451934533",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8806d7dd9882b0934526",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806d7dd985c04934527",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806d7dd983637934528",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Princess Leia Organa Comfort Colors Shirt, Princess Leia Shirt, Star Wars Shirt, Rebel Alliance&#39;s tee, Leia Organa, Disneyworld Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2200/1749/216/47/il/3a95e1/5844229977/il_fullxfull.5844229977_6546.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/8dJMWwCgF7ZkXD4HiBNROpQCiToEPXixGuIj6Ve5.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014709Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=82d73b1536e25a1fcd2f9c6023bec131eca2741de1ce16a289a5520001a87c3d"
+					}
+				},
+				"created": "2024-04-15T01:51:03.015Z",
+				"slug": "retro-princess-leia-organa-comfort-colors-shirt-princess-leia-shirt-star-wars-shirt-rebel-allianceand39s-tee-leia-organa-disneyworld-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-princess-leia-organa-comfort-colors-shirt-princess-leia-shirt-star-wars-shirt-rebel-allianceand39s-tee-leia-organa-disneyworld-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8807d7dd98c451934533/3001-unisex-jersey-short-sleeve-tee/black/l/cfaho/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8806d7dd984c0793451f",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8806d7dd98fd8b934518",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806d7dd983e3d934519",
+						"values": [
+							{
+								"key": "color",
+								"value": "DARK GREY HEATHER",
+								"name": "DARK GREY HEATHER",
+								"slug": "dark-grey-heather"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806d7dd985ef393451a",
+						"values": [
+							{
+								"key": "size",
+								"value": "3XL",
+								"name": "3XL",
+								"slug": "3xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Disney Pixar Ratatouille Shirt, Remy Ratatouille shirt, Ratatouille Mickey Head Shirt, Matching Epcot shirt, Anyone can cook shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1612/1288/261/165/il/d6f858/5528504524/il_fullxfull.5528504524_9awm.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/xtzk8FGNwpG3QsOLMakgMP0R7oPvcDAXOasGAT4O.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014944Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=4ab25323865fd86a2f026d096b70e3d8285d5c5c5f9be17bd8430f92a6b8ad15"
+					}
+				},
+				"created": "2024-04-15T01:51:02.893Z",
+				"slug": "disney-pixar-ratatouille-shirt-remy-ratatouille-shirt-ratatouille-mickey-head-shirt-matching-epcot-shirt-anyone-can-cook-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/disney-pixar-ratatouille-shirt-remy-ratatouille-shirt-ratatouille-mickey-head-shirt-matching-epcot-shirt-anyone-can-cook-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8806d7dd984c0793451f/3001-unisex-jersey-short-sleeve-tee/dark-grey-heather/3xl/3bj91/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8806b9895b605fab149f",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8806b9895b3c03ab1497",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806b9895b211dab1498",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806b9895b6ba6ab1499",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Disney Eras Tour Comfort Color Shirt, Me and Mickey Vibe Like That Shirt, Vintage Mouse Disco Ball Shirt, Magic Disco Ball Eras Mouse Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1812/1432/116/247/il/4008d6/5660231574/il_fullxfull.5660231574_i51m.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/iri9qpRzcSPN66aHYiwa15iLmBPZ8u9jlK1547YZ.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=265bee89f4636aeba22c1718a59f79a91f42672305322c732c97de5e183fa133"
+					}
+				},
+				"created": "2024-04-15T01:51:02.890Z",
+				"slug": "disney-eras-tour-comfort-color-shirt-me-and-mickey-vibe-like-that-shirt-vintage-mouse-disco-ball-shirt-magic-disco-ball-eras-mouse-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/disney-eras-tour-comfort-color-shirt-me-and-mickey-vibe-like-that-shirt-vintage-mouse-disco-ball-shirt-magic-disco-ball-eras-mouse-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8806b9895b605fab149f/1717-unisex-t-shirt-comfort-colors/ivory/xl/mh3o7/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c880662406003780079e1",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88066240603c2a0079d9",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806624060b0b90079da",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88066240604be30079db",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Star Wars Comfort Colors Shirt, Disney Galaxys Edge Shirt, Disney Family Shirt, Star Wars A New Hope Faded, Disneyworld Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1801/1432/161/207/il/80bbc0/5642929547/il_fullxfull.5642929547_jkyv.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/YyMh9zBfqjW3OmCfTb6zseM5DqfxdS6p64ZRdX21.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014624Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=81e56322cc7dae4f3be8a279d32850c392cab6cc931cc2167f339cff5b9b68f3"
+					}
+				},
+				"created": "2024-04-15T01:51:02.875Z",
+				"slug": "vintage-star-wars-comfort-colors-shirt-disney-galaxys-edge-shirt-disney-family-shirt-star-wars-a-new-hope-faded-disneyworld-shirts",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-star-wars-comfort-colors-shirt-disney-galaxys-edge-shirt-disney-family-shirt-star-wars-a-new-hope-faded-disneyworld-shirts",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c880662406003780079e1/1717-unisex-t-shirt-comfort-colors/ivory/m/wjjir/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88068feee5f35dfd213a",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88068feee52b4bfd2135",
+						"values": [
+							{
+								"key": "product",
+								"value": "18000 Unisex Classic Sweatshirt",
+								"name": "18000 Unisex Classic Sweatshirt",
+								"slug": "18000-unisex-classic-sweatshirt"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88068feee5dde0fd2136",
+						"values": [
+							{
+								"key": "color",
+								"value": "SAND",
+								"name": "SAND",
+								"slug": "sand"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88068feee533cdfd2137",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two Sided Remy Ratatouille Sweatshirt, Vintage Ratatouille Gusteau&#39;s Shirt, Little chef Sweatshirt, Remy Hoodie, Anyone can cook sweater",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2038/1620/17/226/il/9cdeb5/5919505263/il_fullxfull.5919505263_2xfp.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/Driiv6eDD2TGKpdCHoayD7focbHMQGG7ztwmcc9g.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014553Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=1cbcf096aaf6e10fd203d3e01174fd90cc89f1d12fe3892a6ddf5e81bf5b0a29",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/sPauCBTAy22n99QP2o0iLqJBnWVG12SlJpKjkpUD.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014553Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=47a646ec85a1f7dbb5e3c23ca3992631eea9978c565472dc5577f2e4da59891d"
+					}
+				},
+				"created": "2024-04-15T01:51:02.830Z",
+				"slug": "two-sided-remy-ratatouille-sweatshirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-sweatshirt-remy-hoodie-anyone-can-cook-sweater",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-remy-ratatouille-sweatshirt-vintage-ratatouille-gusteauand39s-shirt-little-chef-sweatshirt-remy-hoodie-anyone-can-cook-sweater",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88068feee5f35dfd213a/18000-unisex-classic-sweatshirt/sand/m/fdfl5/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8806624060ef5a0079d1",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880662406055040079c7",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806624060b17c0079c8",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806624060293f0079c9",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two sided Retro Lightning McQueen Comfort Colors Shirt, Disney Cars Shirt, Disney Family Vacation Shirt, Piston Cup shirt, Cars land shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1999/1589/34/59/il/23f3d5/5690314975/il_fullxfull.5690314975_o5oj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/skE7TUgSumdicxHoJE9xnODxpcilkWR3oxmxck4O.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=2462ccad0477dd43f5eb656f81ff1cf2601b4d2910deeb70dba256101a53d3f8",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/rA3kB9NV6iih0Z2HiesbGLZe8omoaLY2Awke6kS7.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014817Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=a3e1dbd115cd655b47238600642dc4eb3e6b5be3ca1323c820fe1a81824c4005"
+					}
+				},
+				"created": "2024-04-15T01:51:02.822Z",
+				"slug": "two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-2uo",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-2uo",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8806624060ef5a0079d1/1717-unisex-t-shirt-comfort-colors/ivory/m/f5jfb/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8806b9895b601fab1492",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c8806b9895b7a07ab148b",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806b9895b2a8bab148c",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806b9895b9e35ab148d",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Godzilla Vs Kong Comfort Colors Shirt, Godzilla x Kong The New Empire 2024 Shirt, Godzilla Kong Shirt, Godzilla Movie Fans Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/883/702/120/120/il/5167c5/5896731548/il_fullxfull.5896731548_fxkd.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/tieLK9NX3nDDPnZkDFNgsMfl4UDay8KWIMIdlJWP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T011634Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=bebcc21a94e455c3359072418bc8f992b8dbcd2ee74bbe450df34e39c9ba0865"
+					}
+				},
+				"created": "2024-04-15T01:51:02.796Z",
+				"slug": "vintage-godzilla-vs-kong-comfort-colors-shirt-godzilla-x-kong-the-new-empire-2024-shirt-godzilla-kong-shirt-godzilla-movie-fans-shirts",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-godzilla-vs-kong-comfort-colors-shirt-godzilla-x-kong-the-new-empire-2024-shirt-godzilla-kong-shirt-godzilla-movie-fans-shirts",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8806b9895b601fab1492/1717-unisex-t-shirt-comfort-colors/black/l/its6u/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c8806624060e7ad0079c2",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c880662406010b30079b9",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c880662406088580079ba",
+						"values": [
+							{
+								"key": "color",
+								"value": "WHITE",
+								"name": "WHITE",
+								"slug": "white"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c8806624060612d0079bb",
+						"values": [
+							{
+								"key": "size",
+								"value": "M",
+								"name": "M",
+								"slug": "m"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two sided Retro Lightning McQueen Comfort Colors Shirt, Disney Cars Shirt, Disney Family Vacation Shirt, Piston Cup shirt, Cars land shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1999/1589/34/59/il/23f3d5/5690314975/il_fullxfull.5690314975_o5oj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/skE7TUgSumdicxHoJE9xnODxpcilkWR3oxmxck4O.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T015034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=321e7cb6889ccd1f23a071d7adbe7128e8ffac6bec110a0963e78fc7bb5e3f66",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/rA3kB9NV6iih0Z2HiesbGLZe8omoaLY2Awke6kS7.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T015034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=b8cd0a72a314633077c7efabeb7bc02ece71faa84a26bfb0e62c8190626a80ab"
+					}
+				},
+				"created": "2024-04-15T01:51:02.789Z",
+				"slug": "two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-nsl",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt-nsl",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c8806624060e7ad0079c2/1717-unisex-t-shirt-comfort-colors/white/m/h0fy7/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88068feee50468fd2123",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88068feee5ea73fd211e",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88068feee52fa8fd211f",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88068feee56508fd2120",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Disney Pixar Cars Comfort Colors Shirt, Vintage Lightning McQueen Race 95 Shirt, Piston Cup shirt, McQueen Car tee, Disneyworld Family Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1746/1388/141/253/il/8594a4/5919609797/il_fullxfull.5919609797_opmc.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/wK2X9md0yU2D5OeUcAoAJOEQWhJ9dYMW09s7dD82.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T014754Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=cf7d3cd1bdf1d80c4bfa332ec23a8ecb935ef71d4ee53cc1bf1173aea1f693e0"
+					}
+				},
+				"created": "2024-04-15T01:51:02.786Z",
+				"slug": "disney-pixar-cars-comfort-colors-shirt-vintage-lightning-mcqueen-race-95-shirt-piston-cup-shirt-mcqueen-car-tee-disneyworld-family-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/disney-pixar-cars-comfort-colors-shirt-vintage-lightning-mcqueen-race-95-shirt-piston-cup-shirt-mcqueen-car-tee-disneyworld-family-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88068feee50468fd2123/1717-unisex-t-shirt-comfort-colors/pepper/xl/27kzc/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "661c88068feee5b2c7fd211b",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "661c88068feee579d2fd2115",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88068feee5b5a2fd2116",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "661c88068feee50884fd2117",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Disney Flynn Rider Shirt, Tangled Flynn T Shirt, Rapunzel Princess Tees, Flynn Rider tee, Disneyland Shirts, Disney Comfort Colors Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2140/1701/0/91/il/bd98f5/5888417092/il_fullxfull.5888417092_i0vy.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/LTVqb38tqNQWy41CoGpdtoiyJMdxQgXQVZdc4H7l.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240415%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240415T015005Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=ab3d1d02d087fc87ff6f4010815ba2855ffc78f61d32fc5d9766f8f863614ba0"
+					}
+				},
+				"created": "2024-04-15T01:51:02.778Z",
+				"slug": "disney-flynn-rider-shirt-tangled-flynn-t-shirt-rapunzel-princess-tees-flynn-rider-tee-disneyland-shirts-disney-comfort-colors-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/disney-flynn-rider-shirt-tangled-flynn-t-shirt-rapunzel-princess-tees-flynn-rider-tee-disneyland-shirts-disney-comfort-colors-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/661c88068feee5b2c7fd211b/1717-unisex-t-shirt-comfort-colors/pepper/xl/9obqf/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f765827c06016f71c6a2",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f765827c064ea271c69d",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f765827c0622a671c69e",
+						"values": [
+							{
+								"key": "color",
+								"value": "WHITE",
+								"name": "WHITE",
+								"slug": "white"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f765827c0628d371c69f",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "National Park Wizard Comfort Colors Shirt, Retro Forbidden Forest Shirt, Wizarding World Shirt, Family Vacation Shirt, Bookish Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2098/1667/0/188/il/7e96a2/5927868905/il_fullxfull.5927868905_b2d5.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/G3E17LFP80dXD1yyp82cRYSeGYfTffs1hBD3n1PI.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085358Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=c90e669b3024d1bad360be37120abd1b201574abca95fe9ea94b29ff97f92e79",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/nOtWx8d1jyytFR3Q5pH7K9UCcb4eGyVdQADncuo4.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085358Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=465726794e6c810d36760e8e6d95dbfb099bc083c68ed1be432ca8cd2d8923de"
+					}
+				},
+				"created": "2024-04-12T08:57:09.263Z",
+				"slug": "national-park-wizard-comfort-colors-shirt-retro-forbidden-forest-shirt-wizarding-world-shirt-family-vacation-shirt-bookish-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/national-park-wizard-comfort-colors-shirt-retro-forbidden-forest-shirt-wizarding-world-shirt-family-vacation-shirt-bookish-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f765827c06016f71c6a2/3001-unisex-jersey-short-sleeve-tee/white/l/2x2sv/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f7618feee51d12fb9678",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f7618feee544e9fb9673",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f7618feee558a6fb9674",
+						"values": [
+							{
+								"key": "color",
+								"value": "MOSS",
+								"name": "MOSS",
+								"slug": "moss"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f7618feee50ba7fb9675",
+						"values": [
+							{
+								"key": "size",
+								"value": "2XL",
+								"name": "2XL",
+								"slug": "2xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Retro Floral Star Wars Comfort Colors Shirt, Star War Floral Shirt, Darth Vader Shirt, Stormtrooper tee, Boba Fett Shirt, Disneyland Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1971/1550/151/176/il/132853/5818622310/il_fullxfull.5818622310_surj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/HbDt5ZvXuE2NXzyHCT6xeLvzM0JboSjdDZ88FSoP.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=0d9c7599f84428d3db77014f5486ce315349216532bf330dbc9b0ceaf879442b"
+					}
+				},
+				"created": "2024-04-12T08:57:05.203Z",
+				"slug": "retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/retro-floral-star-wars-comfort-colors-shirt-star-war-floral-shirt-darth-vader-shirt-stormtrooper-tee-boba-fett-shirt-disneyland-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f7618feee51d12fb9678/1717-unisex-t-shirt-comfort-colors/moss/2xl/k6sqz/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f75c624060e110feef7a",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f75c62406027d1feef75",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c6240600590feef76",
+						"values": [
+							{
+								"key": "color",
+								"value": "PEPPER",
+								"name": "PEPPER",
+								"slug": "pepper"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c62406032c2feef77",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage Tangled Rapunzel Comfort Colors Shirt, Snuggly Duckling Shirt, Rapunzel Go Live Your Dream, Disneyworld Shirt, Tangled Family Shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1999/1589/94/188/il/d4324a/5661577293/il_fullxfull.5661577293_t51g.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/mjreRMYKXTfE1Nl6xvgMR3vXi4sbhxeKh9HXvtrV.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=e397a0b6f78259e3fb316acc3e52517e05f619c8a1a2570f9c855797385a5f5f"
+					}
+				},
+				"created": "2024-04-12T08:57:00.399Z",
+				"slug": "vintage-tangled-rapunzel-comfort-colors-shirt-snuggly-duckling-shirt-rapunzel-go-live-your-dream-disneyworld-shirt-tangled-family-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-tangled-rapunzel-comfort-colors-shirt-snuggly-duckling-shirt-rapunzel-go-live-your-dream-disneyworld-shirt-tangled-family-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f75c624060e110feef7a/1717-unisex-t-shirt-comfort-colors/pepper/xl/vwhyz/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f75cd7dd98822791be53",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f75cd7dd98ff2291be4e",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75cd7dd98364d91be4f",
+						"values": [
+							{
+								"key": "color",
+								"value": "DARK GREY HEATHER",
+								"name": "DARK GREY HEATHER",
+								"slug": "dark-grey-heather"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75cd7dd98534991be50",
+						"values": [
+							{
+								"key": "size",
+								"value": "2XL",
+								"name": "2XL",
+								"slug": "2xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Winnie the Pooh 1926 Shirt , Vintage Hundred Acre Woods Honey Co Shirt, Pooh Hunny Shirt, Pooh Bear Shirt, Disneyland Trip shirt, HT-160204",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1666/1324/213/178/il/b9e855/5594523348/il_fullxfull.5594523348_lse7.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/TKb1ZI1ushcbOR5D6cBtmqtijB92juVS4egvYYca.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085131Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=fc1591b405797e4d0e0ebf36a4586f5d8cda2f149c65c7c7c9225df2aa82c866"
+					}
+				},
+				"created": "2024-04-12T08:57:00.297Z",
+				"slug": "winnie-the-pooh-1926-shirt-vintage-hundred-acre-woods-honey-co-shirt-pooh-hunny-shirt-pooh-bear-shirt-disneyland-trip-shirt-ht-160204",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/winnie-the-pooh-1926-shirt-vintage-hundred-acre-woods-honey-co-shirt-pooh-hunny-shirt-pooh-bear-shirt-disneyland-trip-shirt-ht-160204",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f75cd7dd98822791be53/3001-unisex-jersey-short-sleeve-tee/dark-grey-heather/2xl/nuvuh/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f75c827c06ea4f71c65f",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f75c827c0626c871c657",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c827c060c9271c658",
+						"values": [
+							{
+								"key": "color",
+								"value": "BLACK",
+								"name": "BLACK",
+								"slug": "black"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c827c060c7d71c659",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Vintage  Pizza Planet Toy Story Comfort Colors Shirt, Disney Toy Story Aliens Shirt, Pixar Pizza Planet Tee, Disneyworld Shirts, XT-080802",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/2791/2231/202/71/il/82a913/5384320255/il_fullxfull.5384320255_dwqk.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/06UvSHkLwUiMJ9cMEA7AK67GXP5OkUFhqwvlUrb3.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085035Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=991a3ee9de174e364103463f168dfb014609f3fbee6fbd28705e6f169683493d",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/iVew1yHtc60cBIy4oQ8w2RzuLUhrXlo5JgZz20vN.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085035Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=510b7c175d7e26f7bcb43451dca6c88dc2cefb01e94d4cb8416dea7f4f379ed0"
+					}
+				},
+				"created": "2024-04-12T08:57:00.291Z",
+				"slug": "vintage-pizza-planet-toy-story-comfort-colors-shirt-disney-toy-story-aliens-shirt-pixar-pizza-planet-tee-disneyworld-shirts-xt-080802",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/vintage-pizza-planet-toy-story-comfort-colors-shirt-disney-toy-story-aliens-shirt-pixar-pizza-planet-tee-disneyworld-shirts-xt-080802",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f75c827c06ea4f71c65f/1717-unisex-t-shirt-comfort-colors/black/l/58jcv/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f75c827c060fb571c65b",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f75c827c062a5a71c651",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c827c06f11971c652",
+						"values": [
+							{
+								"key": "color",
+								"value": "HEATHER ICE BLUE",
+								"name": "HEATHER ICE BLUE",
+								"slug": "heather-ice-blue"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c827c06b3af71c653",
+						"values": [
+							{
+								"key": "size",
+								"value": "L",
+								"name": "L",
+								"slug": "l"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Velaris City Of Starlight Court Comfort Colors Shirt, ACOTAR Night Shirt, Court of Dreams, The City of Starlight Shirt, Sarah J Mass Shirts",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1981/1575/59/254/il/fb8215/5922145449/il_fullxfull.5922145449_4jej.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/cDYUFYrf9SpR8Mn1Bh9nI2xDQdlYQnHwdOkOirAJ.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085358Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=0a3324a3ed2946866f18ceee8da2817950110d6db77f6b7915e460a98b2fa6fd",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/s9VnArXCxgmAPj1ay5tH7IIDxsCvIZQFhJJP95n7.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085358Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=780920e4ae8b620dddfb814da67b588485e73551d96915d07e63c3aa65ba8131"
+					}
+				},
+				"created": "2024-04-12T08:57:00.274Z",
+				"slug": "velaris-city-of-starlight-court-comfort-colors-shirt-acotar-night-shirt-court-of-dreams-the-city-of-starlight-shirt-sarah-j-mass-shirts",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/velaris-city-of-starlight-court-comfort-colors-shirt-acotar-night-shirt-court-of-dreams-the-city-of-starlight-shirt-sarah-j-mass-shirts",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f75c827c060fb571c65b/3001-unisex-jersey-short-sleeve-tee/heather-ice-blue/l/x3ssx/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f75c6240607d13feef6a",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f75c624060d9edfeef64",
+						"values": [
+							{
+								"key": "product",
+								"value": "1717 Unisex T-shirt Comfort Colors",
+								"name": "1717 Unisex T-shirt Comfort Colors",
+								"slug": "1717-unisex-t-shirt-comfort-colors"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c6240607e04feef65",
+						"values": [
+							{
+								"key": "color",
+								"value": "IVORY",
+								"name": "IVORY",
+								"slug": "ivory"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c624060b9befeef66",
+						"values": [
+							{
+								"key": "size",
+								"value": "XL",
+								"name": "XL",
+								"slug": "xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Two sided Retro Lightning McQueen Comfort Colors Shirt, Disney Cars Shirt, Disney Family Vacation Shirt, Piston Cup shirt, Cars land shirt",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1999/1589/34/59/il/23f3d5/5690314975/il_fullxfull.5690314975_o5oj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/skE7TUgSumdicxHoJE9xnODxpcilkWR3oxmxck4O.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085009Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=c43212c77dd9f9db2e40924b4176db25f5ad04da840250abb87c1e6224fa5819",
+						"back": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/rA3kB9NV6iih0Z2HiesbGLZe8omoaLY2Awke6kS7.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085009Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=02fc88c49fef8f611ea36f11df1b59ee47d18dd20f379768fcd4acd942d64b54"
+					}
+				},
+				"created": "2024-04-12T08:57:00.266Z",
+				"slug": "two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/two-sided-retro-lightning-mcqueen-comfort-colors-shirt-disney-cars-shirt-disney-family-vacation-shirt-piston-cup-shirt-cars-land-shirt",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f75c6240607d13feef6a/1717-unisex-t-shirt-comfort-colors/ivory/xl/mbx0x/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			},
+			{
+				"_id": "6618f75c8feee51b7bfb9662",
+				"tags": [],
+				"collections": [],
+				"attributes": [
+					{
+						"_id": "6618f75c8feee534eafb965d",
+						"values": [
+							{
+								"key": "product",
+								"value": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"name": "3001 UNISEX JERSEY SHORT SLEEVE TEE",
+								"slug": "3001-unisex-jersey-short-sleeve-tee"
+							}
+						],
+						"is_preselected": true,
+						"name": "Product",
+						"position": 10,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c8feee58378fb965e",
+						"values": [
+							{
+								"key": "color",
+								"value": "HEATHER RASPBERRY",
+								"name": "HEATHER RASPBERRY",
+								"slug": "heather-raspberry"
+							}
+						],
+						"is_preselected": true,
+						"name": "Color",
+						"position": 20,
+						"value_type": "label"
+					},
+					{
+						"_id": "6618f75c8feee56114fb965f",
+						"values": [
+							{
+								"key": "size",
+								"value": "3XL",
+								"name": "3XL",
+								"slug": "3xl"
+							}
+						],
+						"is_preselected": true,
+						"name": "Size",
+						"position": 30,
+						"value_type": "label"
+					}
+				],
+				"is_deleted": false,
+				"is_active": true,
+				"is_private": true,
+				"is_taken_down": false,
+				"approval_status": "pending",
+				"designs": [],
+				"title": "Female Superhero Shirt, Avengers Girls Shirt, Marvel Shirt, Black Widow Captain Marvel Wasp Scarlet Witch, Girl Trip Shirt, NA-210403",
+				"type": {
+					"_id": "6618f75c6240605ccdfeef62",
+					"type": "external_personalized",
+					"vendor": "api"
+				},
+				"meta": {
+					"image_url": "https://i.etsystatic.com/32555528/c/1195/945/398/71/il/9d7e4c/5919553775/il_fullxfull.5919553775_9qxj.jpg",
+					"artworks": {
+						"front": "https://lcgmedia-cuahangpod.sgp1.digitaloceanspaces.com/photos/bgTaLzu1JssfRGtmWO5imQ3ANEQ0EDd6vlRY1TIt.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO00KGQFZK2MEVBZXPKD%2F20240412%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240412T085218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=345600&X-Amz-Signature=5813708861880af007c9e99f7e08eb05b91e6b533989534213b9af70e31d38c0"
+					}
+				},
+				"created": "2024-04-12T08:57:00.249Z",
+				"slug": "female-superhero-shirt-avengers-girls-shirt-marvel-shirt-black-widow-captain-marvel-wasp-scarlet-witch-girl-trip-shirt-na-210403",
+				"retail_price": 0,
+				"url": "https://james-gift-s.merchize.store/female-superhero-shirt-avengers-girls-shirt-marvel-shirt-black-widow-captain-marvel-wasp-scarlet-witch-girl-trip-shirt-na-210403",
+				"image": "https://d2dytk4tvgwhb4.cloudfront.net/yv0ul4us/products/6618f75c8feee51b7bfb9662/3001-unisex-jersey-short-sleeve-tee/heather-raspberry/3xl/hvral/thumb.jpg",
+				"status": "active",
+				"under_review_revision": {},
+				"integration_information": []
+			}
+		],
+		"total": 5657,
+		"limit": 100,
+		"page": 57,
+		"pages": 57
+	}
+}
