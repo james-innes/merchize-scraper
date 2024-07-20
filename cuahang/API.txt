@@ -1,0 +1,71 @@
+paulharold833@gmail.com
+
+POST
+https://lcgmedia.cuahangpod.com/api/heyShop
+Bearer 335|kummUIHggKLJgnQawVMmc7jKE0rMTtfhwndMjFsO
+
+Response
+{"success":true,"message":"The Shop is synced."}
+
+
+POST
+https://lcgmedia.cuahangpod.com/api/heyShop/49173111/order
+Bearer 335|kummUIHggKLJgnQawVMmc7jKE0rMTtfhwndMjFsO
+
+Response
+{"success":true,"message":"The Orders are synced."}
+
+
+const n = "https://lcgmedia.cuahangpod.com"
+  , t = "https://lcgmedia.cuahangpod.com/api"
+  , c = async e=>await fetch(`${t}/me`, {
+    headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${e}`
+    }
+})
+  , r = async(e={})=>await fetch(`${t}/hey/token`, {
+    method: "POST",
+    headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json"
+    },
+    body: JSON.stringify(e)
+})
+  , p = async(e,o={})=>await fetch(`${t}/heyShop`, {
+    method: "POST",
+    headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+        Authorization: `Bearer ${e}`
+    },
+    body: o
+})
+  , i = async(e,o,a={})=>await fetch(`${t}/heyShop/${o}/orders`, {
+    method: "POST",
+    headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+        Authorization: `Bearer ${e}`
+    },
+    body: a
+})
+  , h = async(e,o,a)=>await fetch(`${t}/heyShop/${o}/orders/${a}`, {
+    method: "GET",
+    headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+        Authorization: `Bearer ${e}`
+    }
+});
+var s = {
+    YTUONGME_URL: n,
+    YTUONGME_APP_URL: t,
+    getMe: c,
+    heyToken: r,
+    heyShop: p,
+    heyOrders: i,
+    heyOrder: h
+};
+export {s as E};
+

@@ -1,0 +1,545 @@
+[
+  {
+    "type": "EtsyRetail_Order",
+    "order_id": 3360021909,
+    "order_date": 1721482452,
+    "business_id": 49173111,
+    "channel": 1,
+    "order_state_id": "1229259038629",
+    "is_gift": false,
+    "is_gift_wrapped": false,
+    "gift_message": "",
+    "gift_buyer_first_name": "",
+    "order_url": "https://www.etsy.com/your/orders/3360021909?order_id=3360021909",
+    "buyer_id": 630637200,
+    "has_unread_message": false,
+    "has_ads_attribution": false,
+    "uses_pretty_pricing": false,
+    "has_any_queued_label_purchases": false,
+    "is_tracking_required": true,
+    "is_no_sunday_usps_eligible": false,
+    "is_download_only": false,
+    "has_digital_fulfill_later": false,
+    "is_order_price_high_purchase_protection_seller_education": false,
+    "is_order_price_low_purchase_protection_seller_education": true,
+    "receipt_type": 0,
+    "is_canceled": false,
+    "has_sdt_referral": false,
+    "transaction_ids": [],
+    "actions": [
+      {
+        "type": "Common_Order_Action",
+        "name": "ChangeState",
+        "action_type": "ChangeState",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "MarkComplete",
+        "action_type": "MarkComplete",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "AddPrivateNote",
+        "action_type": "AddPrivateNote",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "AddTracking",
+        "action_type": "Invalid",
+        "invalid_reasons_map": {
+          "ADD_TRACKING_ERROR_KEY_NOT_COMPLETE": "Can't add tracking to an order that is not complete"
+        }
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "MarkAsGift",
+        "action_type": "MarkAsGift",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "MarkAsPaid",
+        "action_type": "Invalid",
+        "invalid_reasons_map": {
+          "MARK_AS_PAID_ALREADY_PAID": "Order is already marked as paid",
+          "MARK_AS_PAID_INVALID_PAYMENT_METHOD": "Invalid payment method"
+        }
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "PrintPackingSlip",
+        "action_type": "PrintPackingSlip",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "PrintReceipt",
+        "action_type": "PrintReceipt",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "PrintExistingShippingLabels",
+        "action_type": "Invalid",
+        "invalid_reasons_map": {
+          "PRINT_SHIPPING_LABEL_ERROR_KEY_CANNOT_PRINT_NO_ACTIVE_LABELS": "Order has no active labels to print"
+        }
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "PurchaseReturnLabel",
+        "action_type": "Invalid",
+        "invalid_reasons_map": {
+          "return_label_order_not_onboarded": "Can't create return label for this order"
+        }
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "PurchaseShippingLabel",
+        "action_type": "PurchaseShippingLabel",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "Refund",
+        "action_type": "Refund",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "ReportNonPayment",
+        "action_type": "Invalid",
+        "invalid_reasons_map": {
+          "REPORT_NON_PAYMENT_INVALID_PAYMENT_METHOD": "Invalid payment method"
+        }
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "TrackShipments",
+        "action_type": "TrackShipments",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "UndoMarkAsGift",
+        "action_type": "Invalid",
+        "invalid_reasons_map": {
+          "UNDO_MARK_AS_GIFT_NOT_GIFT": "Order is not marked as a gift"
+        }
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "UndoMarkAsPaid",
+        "action_type": "Invalid",
+        "invalid_reasons_map": {
+          "UNDO_MARK_AS_PAID_INVALID_PAYMENT_METHOD": "Invalid payment method"
+        }
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "UpdateScheduledToShipDate",
+        "action_type": "UpdateScheduledToShipDate",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "Transaction_ActivateListing",
+        "action_type": "Transaction_ActivateListing",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "Transaction_Cancel",
+        "action_type": "Transaction_Cancel",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "Transaction_CopyListing",
+        "action_type": "Transaction_CopyListing",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "Transaction_RenewListing",
+        "action_type": "Transaction_RenewListing",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "Transaction_ReportFeedback",
+        "action_type": "Transaction_ReportFeedback",
+        "invalid_reasons_map": []
+      },
+      {
+        "type": "Common_Order_Action",
+        "name": "Transaction_RespondToFeedback",
+        "action_type": "Transaction_RespondToFeedback",
+        "invalid_reasons_map": []
+      }
+    ],
+    "payment": {
+      "type": "Etsy_Order_Payment",
+      "payment_date": 1721482472,
+      "payment_method": "apple_pay",
+      "seller_payment_method": "cc",
+      "is_fully_paid": true,
+      "is_flagged_for_manual_review": false,
+      "is_in_person_payment": false,
+      "is_partially_refunded": false,
+      "is_fully_refunded": false,
+      "is_manual_payment_method": false,
+      "is_etsy_payment": true,
+      "is_reserved": false,
+      "is_shop_location_in_india": false,
+      "reserve_percentage": 0,
+      "cost_breakdown": {
+        "type": "Etsy_Order_Payment_CostBreakdown",
+        "should_show_vat_euro_notice": false,
+        "should_show_vat_uk_notice": false,
+        "should_show_gst_sg_notice": false,
+        "should_show_canada_tax_paid_notice": false,
+        "should_show_canada_zero_tax_rated_notice": false,
+        "should_show_canada_post_etsy_rating_tooltip": false,
+        "should_show_insurance_message": false,
+        "feature_flag_enabled_for_buyer_promise_insurance_message": false,
+        "should_show_refund_reason": false,
+        "should_show_norway_voec_notice": false,
+        "should_show_loyalty_free_shipping_attribution": false,
+        "package_ids": ["239039347614"],
+        "total_cost": {
+          "type": "Common_Money",
+          "value": 3667,
+          "currency_code": "USD",
+          "formatted_value": "US$36.67"
+        },
+        "items_cost": {
+          "type": "Common_Money",
+          "value": 4856,
+          "currency_code": "USD",
+          "formatted_value": "US$48.56"
+        },
+        "shipping_cost": {
+          "type": "Common_Money",
+          "value": 999,
+          "currency_code": "USD",
+          "formatted_value": "US$9.99"
+        },
+        "shipping_discount": {
+          "type": "Common_Money",
+          "value": 0,
+          "currency_code": "USD",
+          "formatted_value": "US$0.00"
+        },
+        "adjusted_shipping_cost": {
+          "type": "Common_Money",
+          "value": 999,
+          "currency_code": "USD",
+          "formatted_value": "US$9.99"
+        },
+        "refund": {
+          "type": "Common_Money",
+          "value": 0,
+          "currency_code": "USD",
+          "formatted_value": "US$0.00"
+        },
+        "adjusted_total_cost": {
+          "type": "Common_Money",
+          "value": 3667,
+          "currency_code": "USD",
+          "formatted_value": "US$36.67"
+        },
+        "discounted_items_cost": {
+          "type": "Common_Money",
+          "value": 2428,
+          "currency_code": "USD",
+          "formatted_value": "US$24.28"
+        },
+        "gift_wrap_cost": null,
+        "total_euro_cost": {
+          "type": "Common_Money",
+          "value": 3513,
+          "currency_code": "EUR",
+          "formatted_value": "€35.13"
+        },
+        "euro_consignment_cost": {
+          "type": "Common_Money",
+          "value": 2326,
+          "currency_code": "EUR",
+          "formatted_value": "€23.26"
+        },
+        "tax_rule_consignment_cost": {
+          "type": "Common_Money",
+          "value": 0,
+          "currency_code": "USD",
+          "formatted_value": "US$0.00"
+        },
+        "total_canadian_provincial_tax_cost": {
+          "type": "Common_Money",
+          "value": 0,
+          "currency_code": "CAD",
+          "formatted_value": "CA$0.00"
+        },
+        "discount": {
+          "type": "Common_Money",
+          "value": 2428,
+          "currency_code": "USD",
+          "formatted_value": "US$24.28"
+        },
+        "tax_cost": {
+          "type": "Common_Money",
+          "value": 240,
+          "currency_code": "USD",
+          "formatted_value": "US$2.40"
+        }
+      },
+      "payment_method_data": null,
+      "etsy_coupon": null,
+      "coupon": null,
+      "reserve_amount": {
+        "type": "Common_Money",
+        "value": 0,
+        "currency_code": "GBP",
+        "formatted_value": "£0.00"
+      },
+      "sellermarketing_coupons": [
+        {
+          "type": "Etsy_SellerMarketingCoupon_PercentDiscount",
+          "coupon_id": 1282992734346,
+          "code": "COMEBACK",
+          "end_date": 1723935599,
+          "percentage": 50
+        }
+      ]
+    },
+    "tax": { "type": "Etsy_Order_Tax", "order_tax_details_list": [] },
+    "transactions": [
+      {
+        "type": "Etsy_Order_Transaction",
+        "quantity": 1,
+        "transaction_id": 4175636046,
+        "listing_id": 1742590117,
+        "is_in_person_quicksale_listing": false,
+        "is_personalizable": true,
+        "is_digital_fulfill_later": false,
+        "is_download": false,
+        "usd_price": 4856,
+        "listing_tariff_code": "",
+        "was_singapore_gst_collected": false,
+        "cost": {
+          "type": "Common_Money",
+          "value": 4856,
+          "currency_code": "USD",
+          "formatted_value": null
+        },
+        "status": {
+          "type": "Etsy_Order_Transaction_Status",
+          "is_cancelled": false,
+          "is_downloaded": false,
+          "has_pending_cancellation": false
+        },
+        "decorator": null,
+        "product": {
+          "type": "Common_Product",
+          "product_id": "4175636046",
+          "product_identifier": "",
+          "title": "Retro Winnie The Pooh Comfort Colors Shirt, Pooh And Friends Tshirt, Disney Pooh Shirt, Pooh T-Shirt, Pooh Bear And Co Tee, Winnie The Pooh",
+          "image_url_75x75": "https://i.etsystatic.com/49173111/c/2833/2250/130/0/il/701c00/6089130613/il_75x75.6089130613_b5zn.jpg",
+          "is_digital": false,
+          "is_sold_out": false,
+          "product_refund_amount": {
+            "type": "Common_Money",
+            "value": 0,
+            "currency_code": "USD",
+            "formatted_value": "US$0.00"
+          }
+        },
+        "review": null,
+        "variations": [
+          {
+            "type": "Etsy_Order_Transaction_Variation_Standard",
+            "variation_id": "4175636046_1169120684654",
+            "order": 1,
+            "property": "Size &amp; Style",
+            "has_variation_price": true,
+            "value": "Adult Comfort - L"
+          },
+          {
+            "type": "Etsy_Order_Transaction_Variation_Standard",
+            "variation_id": "4175636046_1236131146277",
+            "order": 2,
+            "property": "Color",
+            "has_variation_price": false,
+            "value": "OTHER COLOR (MSG me)"
+          },
+          {
+            "type": "Etsy_Order_Transaction_Variation_Personalization",
+            "variation_id": "4175636046_54",
+            "order": 3,
+            "property": "Personalisation",
+            "has_variation_price": false,
+            "value": "Berry color please (:"
+          }
+        ]
+      }
+    ],
+    "fulfillment": {
+      "type": "Etsy_Order_Fulfillment",
+      "can_mark_shipped": true,
+      "was_shipped": false,
+      "is_complete": false,
+      "expected_ship_date": 1722000872,
+      "actual_ship_date": null,
+      "expected_or_actual_ship_date": 1722000872,
+      "completed_date": null,
+      "days_from_due_date": 6,
+      "has_shipping_upgrade": false,
+      "is_fully_digital": false,
+      "is_overdue": false,
+      "is_international": false,
+      "shipping_method": "Standard Delivery",
+      "recommended_package_ids": ["239039347614"],
+      "is_fully_or_pending_cancellation": false,
+      "has_import_tax": false,
+      "import_tax_label": null,
+      "to_address": {
+        "type": "Common_Order_Fulfillment_Address",
+        "name": "Kyana Numa",
+        "first_line": "2450 Cherry Laurel Dr",
+        "second_line": "Apt 310",
+        "city": "Sanford",
+        "state": "FL",
+        "zip": "32771",
+        "country": "United States",
+        "country_id": 209,
+        "phone": "",
+        "is_usps_verified": true,
+        "verification_state": 1,
+        "delivery_point": "",
+        "carrier_route_code": ""
+      },
+      "from_address": {
+        "type": "Common_Order_Fulfillment_Address",
+        "name": "James Innes",
+        "first_line": "8 Pennington Close",
+        "second_line": "",
+        "city": "West Moors",
+        "state": "",
+        "zip": "BH22 0JU",
+        "country": "United Kingdom",
+        "country_id": 105,
+        "phone": "",
+        "is_usps_verified": false,
+        "verification_state": 0,
+        "delivery_point": "",
+        "carrier_route_code": ""
+      },
+      "shipments": [],
+      "digital": {
+        "type": "Etsy_Order_Fulfillment_Digital",
+        "downloads_url": "https://www.etsy.com/your/orders/3360021909/downloads",
+        "has_download": false,
+        "is_download_only": false,
+        "files": []
+      },
+      "status": {
+        "type": "Etsy_Order_Fulfillment_Status",
+        "cancellation_status": {
+          "type": "Etsy_Order_Fulfillment_CancellationStatus",
+          "summary": "",
+          "is_fully_cancelled": false,
+          "is_partially_cancelled": false,
+          "has_pending_cancellation": null
+        },
+        "digital_status": null,
+        "in_person_status": null,
+        "physical_status": {
+          "type": "Etsy_Order_Fulfillment_PhysicalStatus",
+          "estimated_delivery_date": "25-31 Jul",
+          "shipping_status": {
+            "type": "Etsy_Order_Fulfillment_PhysicalStatus_NotShipped",
+            "expected_ship_date": 1722000872,
+            "show_shipping_in_future_notification": false,
+            "min_expected_ship_date": 1721828072,
+            "ship_by_dates_eligibility": "not_eligible"
+          }
+        }
+      },
+      "verified_address": {
+        "type": "Common_Order_Fulfillment_SuggestedAddress",
+        "verification_state": "verified",
+        "differences": [],
+        "suggested_address": {
+          "type": "Common_Order_Fulfillment_Address",
+          "name": "Kyana Numa",
+          "first_line": "2450 Cherry Laurel Dr",
+          "second_line": "Apt 310",
+          "city": "Sanford",
+          "state": "FL",
+          "zip": "32771-8869",
+          "country": "United States",
+          "country_id": 209,
+          "phone": "",
+          "is_usps_verified": false,
+          "verification_state": 1,
+          "delivery_point": "85",
+          "carrier_route_code": "R012"
+        }
+      },
+      "shipping_label_eligibility": {
+        "type": "Common_Order_Fulfillment_ShippingLabelEligibility",
+        "is_eligible": true,
+        "user": {
+          "type": "Common_Order_Fulfillment_ShippingLabelEligibility_User",
+          "is_eligible": true,
+          "state": "LABEL_ELIGIBILITY_GOOD"
+        },
+        "receipt": {
+          "type": "Common_Order_Fulfillment_ShippingLabelEligibility_Receipt",
+          "is_eligible": true,
+          "state": "LABEL_ELIGIBILITY_GOOD",
+          "carriers": [
+            {
+              "type": "Common_Order_Fulfillment_ShippingLabelEligibility_Receipt_Carrier",
+              "carrier_id": 34,
+              "is_eligible": true,
+              "state": "LABEL_ELIGIBILITY_GOOD"
+            },
+            {
+              "type": "Common_Order_Fulfillment_ShippingLabelEligibility_Receipt_Carrier",
+              "carrier_id": 344,
+              "is_eligible": true,
+              "state": "LABEL_ELIGIBILITY_GOOD"
+            }
+          ]
+        }
+      }
+    },
+    "notes": {
+      "type": "Etsy_Order_Notes",
+      "note_from_buyer": "",
+      "private_order_notes": []
+    },
+    "user_cases": [],
+    "buyer": {
+      "type": "Etsy_Order_Buyer_UserBuyer",
+      "email": "cqkkxtxzqx@privaterelay.appleid.com",
+      "is_frozen": false,
+      "is_banned": false,
+      "buyer_id": 630637200,
+      "name": "Sign in with Apple user",
+      "username": "wam466uqf4irptnh",
+      "is_repeat_buyer": false,
+      "avatar_url": "https://www.etsy.com/images/avatars/default_avatar_75x75.png",
+      "profile_url": "https://www.etsy.com/people/wam466uqf4irptnh",
+      "convo_history": {
+        "type": "Etsy_Order_Buyer_ConvoHistory",
+        "convo_count": 0,
+        "url": "/conversations/with/wam466uqf4irptnh"
+      }
+    }
+  }
+]
