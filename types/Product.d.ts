@@ -22,6 +22,7 @@ export interface ProductType {
 
 export interface Artworks {
   front: string;
+  back: string;
 }
 
 export interface Meta {

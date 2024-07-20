@@ -1,28 +1,31 @@
-import type { ProductResponse, Product } from "../types/Product";
-import type { ArtworkResponse, Artwork } from "../types/Artwork";
+import productTrasnformer from "./transformer";
 
-const PRODUCTS_PAGES = 10;
-var products: Product[] = [];
+let page = 1;
+let pageCount = 1;
 
-for (let page = 0; page < PRODUCTS_PAGES; page++) {
-  const productsFile = await Bun.file(`data/products/${page}.json`).json();
+const writer = Bun.file("/data/products.csv").writer();
 
-  for (const product of productsFile.data.products) {
-    const artworksFile = await Bun.file(
-      `data/artworks/${product._id}.json`
-    ).json();
-    
-    const artworks = artworksFile.data.artworks;
+while (page <= pageCount) {
+  const productsFile = Bun.file(`data/products/${page}.json`);
+  const productsContents = await productsFile.json();
 
-    for (const artwork of artworks) {
-      if (artwork.image) {
-        const imageFile = await Bun.file(`data/images/${artwork._id}.png`);
-        if (!imageFile.exists()) {
-          await Bun.download(artwork.image, `data/images/${artwork._id}.png`);
-        }
-      }
-    }
+  for (const product of productsContents.data.products) {
+    const artworksFile = Bun.file(`data/artworks/${product._id}.json`);
+    const variantsFile = Bun.file(`data/variants/${product._id}.json`);
+
+    const artworksData = await artworksFile.json();
+    const variantsData = await variantsFile.json();
+
+    writer.write(
+      `${Object.values(
+        productTrasnformer({
+          product,
+          artworks: artworksData.data.artworks,
+          variants: variantsData.data,
+        })
+      ).join(",")}\n`
+    );
   }
-
-  // const file = Bun.file(`data/artworks/${product._id}.json`);
+  writer.flush();
 }
+writer.end();

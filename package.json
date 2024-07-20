@@ -6,5 +6,8 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@shopify/admin-api-client": "^1.0.0"
   }
 }
