@@ -1,6 +1,7 @@
-import { appendFile, mkdir } from "node:fs/promises";
-
-import type { ProductResponse } from "../types/Product";
+import { appendFile, mkdir, writeFile } from "node:fs/promises";
+import { existsSync } from "node:fs";
+import path from "node:path";
+import type { ProductResponse, Product } from "../types/Product";
 import type { ArtworkResponse } from "../types/Artwork";
 
 const fetchConfig = {
@@ -10,9 +11,19 @@ const fetchConfig = {
   },
 };
 
+const ensureDirectoryExists = async (dirPath: string) => {
+  if (!existsSync(dirPath)) {
+    await mkdir(dirPath, { recursive: true });
+  }
+};
+
 const logError = async (message: string) => {
-  console.error(message);
-  await appendFile("log/errors.log", message);
+  const logDir = "log";
+  await ensureDirectoryExists(logDir);
+
+  const logMessage = `${new Date().toISOString()} - ${message}\n`;
+  console.error(logMessage);
+  await appendFile(path.join(logDir, "errors.log"), logMessage);
 };
 
 const delay = (seconds: number) =>
@@ -41,26 +52,55 @@ const downloadImage = async (url: string, filepath: string) => {
     const response = await fetch(url);
     if (!response.ok) throw new Error(`Failed to fetch image: ${url}`);
     const imageArrayBuffer = await response.arrayBuffer();
-    await Bun.write(filepath, new Uint8Array(imageArrayBuffer));
+    await writeFile(filepath, new Uint8Array(imageArrayBuffer));
   } catch (error) {
     await logError(`Failed to download image from ${url}: ${error.message}`);
   }
 };
 
 const processProduct = async (
-  product: any,
+  product: Product,
   page: number,
   totalPages: number
 ) => {
   const artworkResponse = await fetchArtworks(product._id);
 
   if (artworkResponse.success) {
-    const cleanedData: any = {
+    const productRow: any = {
       merchize_product_id: product._id,
       title: product.title,
-      etsy_image_url: product.meta?.image_url || "",
-      thumb_image_url: product.image,
+      base_product: "",
+      color: "",
+      size: "",
     };
+
+    for (const attribute of product.attributes) {
+      if (attribute.name.toLowerCase() === "product") {
+        productRow.base_product = attribute.values[0]?.value || "";
+      } else if (attribute.name.toLowerCase() === "color") {
+        productRow.color = attribute.values[0]?.value || "";
+      } else if (attribute.name.toLowerCase() === "size") {
+        productRow.size = attribute.values[0]?.value || "";
+      }
+    }
+
+    const productDir = `out/products/${product._id}`;
+    await ensureDirectoryExists(productDir);
+
+    if (product.meta?.image_url) {
+      await downloadImage(
+        product.meta.image_url,
+        `${productDir}/etsy_mockup.jpg`
+      );
+    } else {
+      await logError(`No image_url found for product ${product._id}`);
+    }
+
+    if (product.image) {
+      await downloadImage(product.image, `${productDir}/merchize_mockup.jpg`);
+    } else {
+      await logError(`No image found for product ${product._id}`);
+    }
 
     const sides = ["front", "back", "sleeve", "hood"];
 
@@ -68,31 +108,36 @@ const processProduct = async (
       const side = artwork.side.toLowerCase();
 
       if (sides.includes(side)) {
-        cleanedData[`${side}_thumbnail_image_url`] = artwork.thumbnail;
-        cleanedData[`${side}_full_image_url`] = artwork.origin_url;
-        cleanedData[`${side}_file_name`] = artwork.name;
-
-        const productDir = `artwork/${product._id}`;
-        await mkdir(productDir, { recursive: true });
-
-        await downloadImage(
-          artwork.thumbnail,
-          `${productDir}/${side}_thumbnail.jpg`
-        );
         await downloadImage(
           artwork.origin_url,
-          `${productDir}/${side}_full.jpg`
+          `${productDir}/${side}_artwork.jpg`
         );
       }
     }
+
+    const outputDir = "out";
+    await ensureDirectoryExists(outputDir);
+
+    const csvPath = path.join(outputDir, "products.csv");
+    if (!existsSync(csvPath)) {
+      await writeFile(
+        csvPath,
+        `"merchize_product_id","title","base_product","color","size"\n`
+      );
+    }
+
     await appendFile(
-      "out/data.csv",
-      `${Object.values(cleanedData).join(",")}\n`
+      csvPath,
+      `${Object.values(productRow)
+        .map((value) => `"${value}"`)
+        .join(",")}\n`
     );
 
     console.log(
       `Saved product ${product._id} from page ${page} of ${totalPages}`
     );
+
+    console.log(productRow);
   } else {
     await logError(`Failed to fetch artworks for product ${product._id}`);
   }
